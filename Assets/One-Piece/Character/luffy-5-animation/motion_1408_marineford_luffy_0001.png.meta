@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 67537fa3100a5d14e952a67f2e53d678
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 838
+        width: 174
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f17aa9ce215b6e4d8cd8ca84e7641f2
+      internalID: -1452729130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 838
+        width: 187
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8673c1b6c632874f9691a34f695ef8c
+      internalID: 1384888006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 838
+        width: 187
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d171f1a0c891b447902406cc02f8c0a
+      internalID: -498036143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 838
+        width: 175
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751b55c06aae7744991dafc4d9b6e02e
+      internalID: 1108215469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 658
+        width: 209
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb410bb0ba4fea0419b14a62230ce389
+      internalID: 115962576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 638
+        width: 167
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60d713b8e6b4ba4f8672db2e461268d
+      internalID: 366400321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 725
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f60bc7bd10a804cb37efcdf0f14812
+      internalID: -1236190692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_8
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 701
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b28468335935cf46b55ec963b9661f8
+      internalID: -798233133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_9
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 713
+        width: 136
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a209b53ead92c4ebd4db00088b504f
+      internalID: -1906074675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_10
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 809
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d37f86d8faffa43bad7ddd2f80daf1
+      internalID: 2045142580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 455
+        width: 220
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303383931201f794f8a9318e0f83d3be
+      internalID: 654762045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 455
+        width: 220
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a69e55357473c4fa33fe011347283f
+      internalID: -790726648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 267
+        width: 174
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bfd7b8c0c2f3b4ea9444ab1d54ccf7
+      internalID: -1916432251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_47
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 257
+        width: 168
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56d8a5abad254a4983ef8861397545e
+      internalID: -809370826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_48
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 230
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84234d09038b48f48ad1c61e46fb3660
+      internalID: -80591180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_49
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 330
+        width: 241
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4638f2e521964eb2f7a52be5db6fd
+      internalID: 1051832643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 133
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff74f157569350418d069047765e103
+      internalID: 2117208113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 152
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035c853b4580ae449b93e8f3ecc9dab1
+      internalID: 1355757767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 9
+        width: 142
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a649920dcaa252d42b011d728395b3dc
+      internalID: 1047150028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 7
+        width: 175
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5376dfee3e5e5a4da9792e76d003b00
+      internalID: 2084303446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1408_marineford_luffy_0001_54
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 14
+        width: 305
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db884421443f2142bc7ef4ade2d4868
+      internalID: 1105661291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c7ee091047f378d4a930c55f0f51aae5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_1408_marineford_luffy_0001_0: -1452729130
+      motion_1408_marineford_luffy_0001_1: 1384888006
+      motion_1408_marineford_luffy_0001_10: 2045142580
+      motion_1408_marineford_luffy_0001_11: -1927779428
+      motion_1408_marineford_luffy_0001_12: 911287076
+      motion_1408_marineford_luffy_0001_13: 2138478390
+      motion_1408_marineford_luffy_0001_14: 754239177
+      motion_1408_marineford_luffy_0001_15: -1899751226
+      motion_1408_marineford_luffy_0001_16: -1519254464
+      motion_1408_marineford_luffy_0001_17: 241656495
+      motion_1408_marineford_luffy_0001_18: 1539735604
+      motion_1408_marineford_luffy_0001_19: -1029923219
+      motion_1408_marineford_luffy_0001_2: -498036143
+      motion_1408_marineford_luffy_0001_20: -1475674165
+      motion_1408_marineford_luffy_0001_21: 1465536098
+      motion_1408_marineford_luffy_0001_22: -149032498
+      motion_1408_marineford_luffy_0001_23: 952204525
+      motion_1408_marineford_luffy_0001_24: 302077170
+      motion_1408_marineford_luffy_0001_25: 1299158765
+      motion_1408_marineford_luffy_0001_26: 1257599935
+      motion_1408_marineford_luffy_0001_27: 499644059
+      motion_1408_marineford_luffy_0001_28: -1354484721
+      motion_1408_marineford_luffy_0001_29: -673077539
+      motion_1408_marineford_luffy_0001_3: 1108215469
+      motion_1408_marineford_luffy_0001_30: -207204709
+      motion_1408_marineford_luffy_0001_31: 1639901342
+      motion_1408_marineford_luffy_0001_32: 2129253001
+      motion_1408_marineford_luffy_0001_33: -890425833
+      motion_1408_marineford_luffy_0001_34: 654762045
+      motion_1408_marineford_luffy_0001_35: -790726648
+      motion_1408_marineford_luffy_0001_36: 728083102
+      motion_1408_marineford_luffy_0001_37: -583687022
+      motion_1408_marineford_luffy_0001_38: -1977695161
+      motion_1408_marineford_luffy_0001_39: -1369307506
+      motion_1408_marineford_luffy_0001_4: 928003960
+      motion_1408_marineford_luffy_0001_40: -139179291
+      motion_1408_marineford_luffy_0001_41: 161578924
+      motion_1408_marineford_luffy_0001_42: 1780320587
+      motion_1408_marineford_luffy_0001_43: 36987947
+      motion_1408_marineford_luffy_0001_44: -1204173143
+      motion_1408_marineford_luffy_0001_45: 1917299870
+      motion_1408_marineford_luffy_0001_46: -1916432251
+      motion_1408_marineford_luffy_0001_47: -809370826
+      motion_1408_marineford_luffy_0001_48: -80591180
+      motion_1408_marineford_luffy_0001_49: 1051832643
+      motion_1408_marineford_luffy_0001_5: 115962576
+      motion_1408_marineford_luffy_0001_50: 2117208113
+      motion_1408_marineford_luffy_0001_51: 1355757767
+      motion_1408_marineford_luffy_0001_52: 1047150028
+      motion_1408_marineford_luffy_0001_53: 2084303446
+      motion_1408_marineford_luffy_0001_54: 1105661291
+      motion_1408_marineford_luffy_0001_6: 366400321
+      motion_1408_marineford_luffy_0001_7: -1236190692
+      motion_1408_marineford_luffy_0001_8: -798233133
+      motion_1408_marineford_luffy_0001_9: -1906074675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

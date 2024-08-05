@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: 30766ce70796e5547ac9c9991845101e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 795
+        width: 245
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f152828a27ce6f84aa666ec198270e92
+      internalID: -1306633454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 804
+        width: 246
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3252fe83202f94dbe0abe12820bc6a
+      internalID: 733693721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 805
+        width: 246
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a12e03b0239f54d90c36dc4566bcf8
+      internalID: -1647757643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 833
+        width: 245
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866921b3862d5be43ba8de08e13bdf1c
+      internalID: -1677246871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 606
+        width: 236
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e15b3ed5575ca44f83654a8202c96b7
+      internalID: -146403897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 585
+        width: 213
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e39ac36ca3fe44ba8c6a4f8d2baa0c
+      internalID: -1751986619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 587
+        width: 213
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c51748a921e8b4780259dd6401d01c
+      internalID: 1942909315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 615
+        width: 213
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251530f265cfb91449995c9e0373510e
+      internalID: 430834888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 690
+        width: 42
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0e6b253eb1a8c47b6368b176a81c73
+      internalID: -1901394953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 417
+        width: 232
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73013221e0651b49bf2212f4e7739bb
+      internalID: -683287138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 394
+        width: 219
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b5368c8def19548bdfee01c3d0b824
+      internalID: -1992952635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 399
+        width: 229
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656ac8491d818284b81920114e984ded
+      internalID: 228041036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 426
+        width: 231
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e419a5a077e40b4394eb4f9e4ecd11e
+      internalID: 396323446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_13
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 472
+        width: 57
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd2ea809ab0024a8d57eb14c92f935
+      internalID: -1674679693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 279
+        width: 171
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab08281f1259b64783bdc290df5e25d
+      internalID: 703595431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 250
+        width: 150
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e9a6d8a7f8c1468d28a83e310ba01
+      internalID: 456255118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 307
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91336b922a0644247994284196a61eb8
+      internalID: 228412245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 261
+        width: 171
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3bd1d47a6dbef4a8ed7b0c24cb5268
+      internalID: 1853537086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 295
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae0b5075b0d5343a7c95cef7ff8241
+      internalID: 1792158822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_19
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 236
+        width: 214
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fead5cc1e994e8648a3d065c038044b2
+      internalID: -174995507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_20
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 238
+        width: 103
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e27f8219730d42a823cb9d6a5c3ef
+      internalID: 1365710234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 149
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3419f739f58fe4582f80e942eec2b2
+      internalID: 290746803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 265
+        width: 99
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f7fdc4d74f4fd40a7bd2baa419f1fc
+      internalID: 339142512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 178
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092a8372f2c2ed340b64c190d0dc8c58
+      internalID: -571132950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 189
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c58c70f3e74e47b8338b9cc1e5f15
+      internalID: -261139065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 146
+        width: 177
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271d0e7c5f2b38e459d36660a25a67e8
+      internalID: -2115523900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 148
+        width: 171
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab698cd8caf9494da51aedd77a0b91d
+      internalID: 1622397882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 130
+        width: 183
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba38dda64d077a84988ce203e50438c0
+      internalID: 671482720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_28
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 200
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51881f70096a1ac47b38e4ad2df1cbc4
+      internalID: 424313376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_29
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 162
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b3bdc0ca1ef9b4bac0220384c15296
+      internalID: 137893268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f72d3f22f094f43812e59a6238e9f4
+      internalID: -108081963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 190
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1e496bb1c8216448dbe11b198b306f
+      internalID: 1094581172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 74
+        width: 247
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae17b0a4b35ae248b8ab38aa07fd54c
+      internalID: 27640731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_33
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 35
+        width: 180
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547c697dc69bbd549bf284e2c9c7185b
+      internalID: 1911593836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 40
+        width: 187
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bd101401f5f0d4dadfaaf59482f225
+      internalID: -619310493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba98c7a799f93740b49974c0f9be3ac
+      internalID: -1527529333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13256_whitebeard_evolved_reverse_0001_36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 10
+        width: 193
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e1a97ec066f3948b83cab7ef45fc94
+      internalID: -1829719771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f2dcba0f4a5acd41b71b39dd666c0ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_13256_whitebeard_evolved_reverse_0001_0: -1306633454
+      motion_13256_whitebeard_evolved_reverse_0001_1: 733693721
+      motion_13256_whitebeard_evolved_reverse_0001_10: -1992952635
+      motion_13256_whitebeard_evolved_reverse_0001_11: 228041036
+      motion_13256_whitebeard_evolved_reverse_0001_12: 396323446
+      motion_13256_whitebeard_evolved_reverse_0001_13: -1674679693
+      motion_13256_whitebeard_evolved_reverse_0001_14: 703595431
+      motion_13256_whitebeard_evolved_reverse_0001_15: 456255118
+      motion_13256_whitebeard_evolved_reverse_0001_16: 228412245
+      motion_13256_whitebeard_evolved_reverse_0001_17: 1853537086
+      motion_13256_whitebeard_evolved_reverse_0001_18: 1792158822
+      motion_13256_whitebeard_evolved_reverse_0001_19: -174995507
+      motion_13256_whitebeard_evolved_reverse_0001_2: -1647757643
+      motion_13256_whitebeard_evolved_reverse_0001_20: 1365710234
+      motion_13256_whitebeard_evolved_reverse_0001_21: 290746803
+      motion_13256_whitebeard_evolved_reverse_0001_22: 339142512
+      motion_13256_whitebeard_evolved_reverse_0001_23: -571132950
+      motion_13256_whitebeard_evolved_reverse_0001_24: -261139065
+      motion_13256_whitebeard_evolved_reverse_0001_25: -2115523900
+      motion_13256_whitebeard_evolved_reverse_0001_26: 1622397882
+      motion_13256_whitebeard_evolved_reverse_0001_27: 671482720
+      motion_13256_whitebeard_evolved_reverse_0001_28: 424313376
+      motion_13256_whitebeard_evolved_reverse_0001_29: 137893268
+      motion_13256_whitebeard_evolved_reverse_0001_3: -1677246871
+      motion_13256_whitebeard_evolved_reverse_0001_30: -108081963
+      motion_13256_whitebeard_evolved_reverse_0001_31: 1094581172
+      motion_13256_whitebeard_evolved_reverse_0001_32: 27640731
+      motion_13256_whitebeard_evolved_reverse_0001_33: 1911593836
+      motion_13256_whitebeard_evolved_reverse_0001_34: -619310493
+      motion_13256_whitebeard_evolved_reverse_0001_35: -1527529333
+      motion_13256_whitebeard_evolved_reverse_0001_36: -1829719771
+      motion_13256_whitebeard_evolved_reverse_0001_4: -146403897
+      motion_13256_whitebeard_evolved_reverse_0001_5: -1751986619
+      motion_13256_whitebeard_evolved_reverse_0001_6: 1942909315
+      motion_13256_whitebeard_evolved_reverse_0001_7: 430834888
+      motion_13256_whitebeard_evolved_reverse_0001_8: -1901394953
+      motion_13256_whitebeard_evolved_reverse_0001_9: -683287138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

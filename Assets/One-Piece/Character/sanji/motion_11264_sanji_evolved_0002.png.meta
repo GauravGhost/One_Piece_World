@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: f004129d25014044190741d5fdd2a1d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 836
+        width: 106
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188b6ce515697694994dff2ec7bed60b
+      internalID: 1320051021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 836
+        width: 109
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb03b431fe5092e4f8a96085ac000965
+      internalID: 1891723960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 839
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfefa915ed721c0448811cecc4234e54
+      internalID: -1037636193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 833
+        width: 176
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdca03b8fdcdd349a127fb195044bb2
+      internalID: 797437032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 867
+        width: 127
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c2b8dc1229d447bd66f3bdc7dbe92
+      internalID: 2031999392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_5
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 841
+        width: 203
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a07ce3cf359c24f832f426bed173e4
+      internalID: 629791087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 629
+        width: 118
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b60c19ecf7c254f975716006dfde8b
+      internalID: -1232331589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 645
+        width: 118
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ba228ff5e53b044b47001895057877
+      internalID: -1538937731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 645
+        width: 119
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c417003d7ce6c409397fda5b941836
+      internalID: 1330239288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_15
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 645
+        width: 142
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a018f0a33ceb14fb0e0486a6779400
+      internalID: -480245765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_16
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 652
+        width: 152
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103ec90cc16ef3d498068fa49217d667
+      internalID: -197897875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 676
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b56c022ae718d94389b4f129f71eaed
+      internalID: -1601286904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11264_sanji_evolved_0002_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 564
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a32cceac0fc44389e72e54b2506e1
+      internalID: -908350023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c5434a6f29fa09478c487655d6e5de8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_11264_sanji_evolved_0002_0: 1320051021
+      motion_11264_sanji_evolved_0002_1: 1891723960
+      motion_11264_sanji_evolved_0002_10: 53344143
+      motion_11264_sanji_evolved_0002_11: 570424078
+      motion_11264_sanji_evolved_0002_12: -1232331589
+      motion_11264_sanji_evolved_0002_13: -1538937731
+      motion_11264_sanji_evolved_0002_14: 1330239288
+      motion_11264_sanji_evolved_0002_15: -480245765
+      motion_11264_sanji_evolved_0002_16: -197897875
+      motion_11264_sanji_evolved_0002_17: -1601286904
+      motion_11264_sanji_evolved_0002_18: -1699384962
+      motion_11264_sanji_evolved_0002_19: -505348226
+      motion_11264_sanji_evolved_0002_2: -1037636193
+      motion_11264_sanji_evolved_0002_20: -1166172599
+      motion_11264_sanji_evolved_0002_21: -1914722086
+      motion_11264_sanji_evolved_0002_22: 547055299
+      motion_11264_sanji_evolved_0002_23: -1397561753
+      motion_11264_sanji_evolved_0002_24: 894997312
+      motion_11264_sanji_evolved_0002_25: -845117113
+      motion_11264_sanji_evolved_0002_26: 562937997
+      motion_11264_sanji_evolved_0002_27: 158796150
+      motion_11264_sanji_evolved_0002_28: 2040695882
+      motion_11264_sanji_evolved_0002_29: -1723352083
+      motion_11264_sanji_evolved_0002_3: 797437032
+      motion_11264_sanji_evolved_0002_30: 149445181
+      motion_11264_sanji_evolved_0002_31: -908350023
+      motion_11264_sanji_evolved_0002_32: -312798211
+      motion_11264_sanji_evolved_0002_33: 1301648422
+      motion_11264_sanji_evolved_0002_34: 636100547
+      motion_11264_sanji_evolved_0002_35: -331963441
+      motion_11264_sanji_evolved_0002_36: 2005463582
+      motion_11264_sanji_evolved_0002_37: 779248869
+      motion_11264_sanji_evolved_0002_38: 325853422
+      motion_11264_sanji_evolved_0002_39: -1083575234
+      motion_11264_sanji_evolved_0002_4: 2031999392
+      motion_11264_sanji_evolved_0002_40: -542922540
+      motion_11264_sanji_evolved_0002_41: 1125826330
+      motion_11264_sanji_evolved_0002_42: -35661323
+      motion_11264_sanji_evolved_0002_43: 1600341231
+      motion_11264_sanji_evolved_0002_44: -1357675985
+      motion_11264_sanji_evolved_0002_45: -679201166
+      motion_11264_sanji_evolved_0002_46: 1552129204
+      motion_11264_sanji_evolved_0002_47: 1950801863
+      motion_11264_sanji_evolved_0002_48: 1162759459
+      motion_11264_sanji_evolved_0002_49: 79900018
+      motion_11264_sanji_evolved_0002_5: 629791087
+      motion_11264_sanji_evolved_0002_50: -1812045801
+      motion_11264_sanji_evolved_0002_51: 1046317843
+      motion_11264_sanji_evolved_0002_52: -991560585
+      motion_11264_sanji_evolved_0002_53: -1998069540
+      motion_11264_sanji_evolved_0002_54: -1988490973
+      motion_11264_sanji_evolved_0002_55: -475608405
+      motion_11264_sanji_evolved_0002_56: 262948107
+      motion_11264_sanji_evolved_0002_57: -1535987906
+      motion_11264_sanji_evolved_0002_58: -719285694
+      motion_11264_sanji_evolved_0002_59: 2027217050
+      motion_11264_sanji_evolved_0002_6: 1586956872
+      motion_11264_sanji_evolved_0002_60: -1175232000
+      motion_11264_sanji_evolved_0002_61: 440495059
+      motion_11264_sanji_evolved_0002_62: -33478238
+      motion_11264_sanji_evolved_0002_63: -2114736456
+      motion_11264_sanji_evolved_0002_64: 2100214959
+      motion_11264_sanji_evolved_0002_65: -259750104
+      motion_11264_sanji_evolved_0002_66: -166977172
+      motion_11264_sanji_evolved_0002_67: 1663861106
+      motion_11264_sanji_evolved_0002_68: -1349287360
+      motion_11264_sanji_evolved_0002_69: 935905925
+      motion_11264_sanji_evolved_0002_7: -7359213
+      motion_11264_sanji_evolved_0002_70: -1822494628
+      motion_11264_sanji_evolved_0002_71: 679100870
+      motion_11264_sanji_evolved_0002_72: 944054877
+      motion_11264_sanji_evolved_0002_73: 107200369
+      motion_11264_sanji_evolved_0002_74: -1696845965
+      motion_11264_sanji_evolved_0002_75: 1970463839
+      motion_11264_sanji_evolved_0002_76: 400708992
+      motion_11264_sanji_evolved_0002_77: 1341896054
+      motion_11264_sanji_evolved_0002_78: -1523806115
+      motion_11264_sanji_evolved_0002_79: 965923031
+      motion_11264_sanji_evolved_0002_8: 1342630033
+      motion_11264_sanji_evolved_0002_80: 1738387429
+      motion_11264_sanji_evolved_0002_81: 114946048
+      motion_11264_sanji_evolved_0002_82: 495759414
+      motion_11264_sanji_evolved_0002_83: 1966097703
+      motion_11264_sanji_evolved_0002_84: 1698601848
+      motion_11264_sanji_evolved_0002_85: -1915579421
+      motion_11264_sanji_evolved_0002_86: -1212384593
+      motion_11264_sanji_evolved_0002_87: 1760354282
+      motion_11264_sanji_evolved_0002_88: -1747083647
+      motion_11264_sanji_evolved_0002_89: 856081570
+      motion_11264_sanji_evolved_0002_9: -191363036
+      motion_11264_sanji_evolved_0002_90: 1073153294
+      motion_11264_sanji_evolved_0002_91: -329456700
+      motion_11264_sanji_evolved_0002_92: -1415221519
+      motion_11264_sanji_evolved_0002_93: -363604876
+      motion_11264_sanji_evolved_0002_94: 1695576867
+      motion_11264_sanji_evolved_0002_95: 584358245
+      motion_11264_sanji_evolved_0002_96: 1380019715
+      motion_11264_sanji_evolved_0002_97: 2117912182
+      motion_11264_sanji_evolved_0002_98: -1989078426
+      motion_11264_sanji_evolved_0002_99: -1552153794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

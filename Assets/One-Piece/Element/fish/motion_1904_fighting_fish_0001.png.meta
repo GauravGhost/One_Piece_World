@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 8fa14358ad4930642af14c6744672332
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 831
+        width: 238
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf829ef1c9547e4790ba3a0b258d648
+      internalID: -14256994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 823
+        width: 241
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fc829504dd99f41bd19eadc5cfe1cb
+      internalID: 1343162051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 824
+        width: 237
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073d31020e658564399853b492172c49
+      internalID: 702643982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 831
+        width: 238
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd34bfaa95dceb49abc0ecae5b4086d
+      internalID: -963791887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 668
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25433b76a130946b8f117c07b7d6bc
+      internalID: -1360660933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 599
+        width: 241
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162dbd36b0795e34a8259cbeb52d4cdb
+      internalID: 1177407247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 600
+        width: 237
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0931d72eb343f7048a6ecb4401c80503
+      internalID: 194551563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 592
+        width: 233
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9d5b7de4ee5754a9b2e2979a8d77cc
+      internalID: 864370935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 648
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54edb146540647b488a70d46cd7f3050
+      internalID: 516203792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 430
+        width: 275
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320f5bce2a32e274c9ca8d4afa9d0017
+      internalID: 251565238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 430
+        width: 272
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc73ca23a84514b4a851a9404c92d1bc
+      internalID: 897349963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 287
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7138e3e756d94e443bd83bedaf32baa7
+      internalID: 840077179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 201
+        width: 343
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410b83842ebeb494c9a362b41841b447
+      internalID: 718549771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 194
+        width: 348
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f12dd1e4ca4a349b0608dad344e0a1
+      internalID: -527943235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 225
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204826174ee1ed74c8302111d7591882
+      internalID: 2067564575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 9
+        width: 244
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6c82bee01c44b45b01775bed1eb3d1
+      internalID: 198095018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1904_fighting_fish_0001_22
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3
+        width: 293
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d3d77697b535c4d9766f99be85956f
+      internalID: -864768130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a216a382769201b44af5c38be148b5e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_1904_fighting_fish_0001_0: -14256994
+      motion_1904_fighting_fish_0001_1: -1737789270
+      motion_1904_fighting_fish_0001_10: 864370935
+      motion_1904_fighting_fish_0001_11: 1583289367
+      motion_1904_fighting_fish_0001_12: 516203792
+      motion_1904_fighting_fish_0001_13: 251565238
+      motion_1904_fighting_fish_0001_14: 897349963
+      motion_1904_fighting_fish_0001_15: 840077179
+      motion_1904_fighting_fish_0001_16: -1520117940
+      motion_1904_fighting_fish_0001_17: 718549771
+      motion_1904_fighting_fish_0001_18: -527943235
+      motion_1904_fighting_fish_0001_19: 2067564575
+      motion_1904_fighting_fish_0001_2: 1343162051
+      motion_1904_fighting_fish_0001_20: 198095018
+      motion_1904_fighting_fish_0001_21: -329554338
+      motion_1904_fighting_fish_0001_22: -864768130
+      motion_1904_fighting_fish_0001_23: 1580849340
+      motion_1904_fighting_fish_0001_24: -1713643872
+      motion_1904_fighting_fish_0001_3: 702643982
+      motion_1904_fighting_fish_0001_4: -963791887
+      motion_1904_fighting_fish_0001_5: 1763603414
+      motion_1904_fighting_fish_0001_6: -1360660933
+      motion_1904_fighting_fish_0001_7: 1177407247
+      motion_1904_fighting_fish_0001_8: 194551563
+      motion_1904_fighting_fish_0001_9: 1238418403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

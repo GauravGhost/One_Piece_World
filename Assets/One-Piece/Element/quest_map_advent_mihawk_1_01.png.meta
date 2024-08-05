@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 97f5000323e07504199f94af83a35f19
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 365
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69976c31ecf91cf428cd608c177f47fc
+      internalID: 933143323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 856
+        width: 374
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d476c510183106a4b99fccbce6f0ef22
+      internalID: -607418663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_26
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 808
+        width: 108
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466df88c220f6cf4bb421816fd8ad1e4
+      internalID: 1422633758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 797
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26648cc125841bc4fb8cae89e1056524
+      internalID: -2031909291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_29
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 787
+        width: 116
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c7e44e7a58f8f43a4c5ef8e0360edd
+      internalID: 399475836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 578
+        width: 197
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd1bae13ace2ba45b2c2195077c8a5e
+      internalID: -254339549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_35
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 677
+        width: 118
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32a44ba561b33a45a311841e5af3dce
+      internalID: 1580162408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_36
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 695
+        width: 136
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade3d1994bde0644d9be7fda13e54425
+      internalID: -1442266138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 589
+        width: 193
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78acab7cdf24f59439481628d5a6f97d
+      internalID: -816664572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 619
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521b1c90c6fcc4b4c9560d5288c95416
+      internalID: 563468345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 865
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5603225843a4542bf3ce059a3b3afc
+      internalID: -1144728049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_mihawk_1_01_44
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 74
+        width: 112
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692490c9e3bd0ab40a077081af5b559c
+      internalID: 1489279610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c4e7362d942fdd458b52c1f508b65ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      quest_map_advent_mihawk_1_01_0: 933143323
+      quest_map_advent_mihawk_1_01_1: -607418663
+      quest_map_advent_mihawk_1_01_10: 697615786
+      quest_map_advent_mihawk_1_01_11: -1881495301
+      quest_map_advent_mihawk_1_01_12: -159284831
+      quest_map_advent_mihawk_1_01_13: 1284604751
+      quest_map_advent_mihawk_1_01_14: -508785990
+      quest_map_advent_mihawk_1_01_15: 585682796
+      quest_map_advent_mihawk_1_01_16: -378275861
+      quest_map_advent_mihawk_1_01_17: -617681568
+      quest_map_advent_mihawk_1_01_18: -1764422705
+      quest_map_advent_mihawk_1_01_19: -1292974774
+      quest_map_advent_mihawk_1_01_2: -984307387
+      quest_map_advent_mihawk_1_01_20: 1482346797
+      quest_map_advent_mihawk_1_01_21: 782017625
+      quest_map_advent_mihawk_1_01_22: -153759867
+      quest_map_advent_mihawk_1_01_23: -988785829
+      quest_map_advent_mihawk_1_01_24: 1033471216
+      quest_map_advent_mihawk_1_01_25: -326605935
+      quest_map_advent_mihawk_1_01_26: 1422633758
+      quest_map_advent_mihawk_1_01_27: 925001156
+      quest_map_advent_mihawk_1_01_28: -2031909291
+      quest_map_advent_mihawk_1_01_29: 399475836
+      quest_map_advent_mihawk_1_01_3: 457888374
+      quest_map_advent_mihawk_1_01_30: -1238226610
+      quest_map_advent_mihawk_1_01_31: 1531640331
+      quest_map_advent_mihawk_1_01_32: 401091887
+      quest_map_advent_mihawk_1_01_33: 1702478831
+      quest_map_advent_mihawk_1_01_34: -254339549
+      quest_map_advent_mihawk_1_01_35: 1580162408
+      quest_map_advent_mihawk_1_01_36: -1442266138
+      quest_map_advent_mihawk_1_01_37: -816664572
+      quest_map_advent_mihawk_1_01_38: 563468345
+      quest_map_advent_mihawk_1_01_39: 1259788523
+      quest_map_advent_mihawk_1_01_4: 1821328040
+      quest_map_advent_mihawk_1_01_40: 73114502
+      quest_map_advent_mihawk_1_01_41: -877027806
+      quest_map_advent_mihawk_1_01_42: 410289871
+      quest_map_advent_mihawk_1_01_43: -1144728049
+      quest_map_advent_mihawk_1_01_44: 1489279610
+      quest_map_advent_mihawk_1_01_5: -808245597
+      quest_map_advent_mihawk_1_01_6: 1877427636
+      quest_map_advent_mihawk_1_01_7: -633291590
+      quest_map_advent_mihawk_1_01_8: -1361671381
+      quest_map_advent_mihawk_1_01_9: 1246511622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

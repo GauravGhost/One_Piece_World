@@ -1,0 +1,1676 @@
+fileFormatVersion: 2
+guid: e5715e4e3bb70f94dbe162c2d435e037
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 974
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de516fc01424847b24512251f64264
+      internalID: 387289533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 968
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd62c3e07348464d81b55d97afabc99
+      internalID: -1365362525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 986
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48367c94233b2d446b04ea77d88aa0d8
+      internalID: 370898325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 982
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743630f4385acb04c878c9f676768b6e
+      internalID: -281216061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 969
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d757eaa2dbb21734984fc8ed8f7a6848
+      internalID: 604295297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 973
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44b03f047af6848ba9af69f9cb64ed
+      internalID: 1502927153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 966
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97df9e655ea8bb4cba2a92c594de1bf
+      internalID: -2088375910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 971
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e898f8971d47534a9f3ac5990065bef
+      internalID: 456564028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 971
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17269e2dfa6a908489288de7f897c3ab
+      internalID: 550767557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_9
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 980
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd50cb5ec154f469ff45a4d27397b9
+      internalID: -1522773824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_10
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 969
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6107148029c7347b341945e830b141
+      internalID: -1395211313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 974
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5924a49c4f58b34ba9dc44644e9b5a6
+      internalID: 1615455830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 987
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea70696c7de6309418e0be632ca701c4
+      internalID: 1424827742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 874
+        width: 126
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3243974aba8b043b5120f62a598d48
+      internalID: -554562647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_14
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 964
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01387350b2db19f4584e923d210f87d5
+      internalID: 11644768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 811
+        width: 127
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5df3284e8736649953b7e5132bc003
+      internalID: 65401771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 819
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9288d610b61e5fd4e853add998f007fe
+      internalID: -150809407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 819
+        width: 153
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf62a17c50fc64eb2059c1aa624963
+      internalID: 1854835029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 819
+        width: 152
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c464ca183011be141a399de340f42467
+      internalID: -35975218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 871
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32357d8ff07824642824b759210c6bf5
+      internalID: -100075472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_20
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 902
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c7a470feaf3c4ba155836cd4c7834
+      internalID: 1276252681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_21
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 907
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb77ab1507326d44a9b181419e30c224
+      internalID: 1864993516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_22
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 911
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9d2f9fe56fba419c987d4963fcb20
+      internalID: -96782227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_23
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 842
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3980ba250adcd9c4e90b68b1c3000597
+      internalID: 2112964941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_24
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 846
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd57a11029f77049a54d2e3e726f7a0
+      internalID: -1695317978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_25
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 805
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7ae9a84e051494ca4872b64a43f16b
+      internalID: 1353070665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_26
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 808
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cde2ae603b2f745bd0d1313b131a20
+      internalID: 779445686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 659
+        width: 151
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056a51cd66ac2044a3c979155a8e41a
+      internalID: -1218247739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 583
+        width: 204
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796221597f6dbdd499edf31476ae2976
+      internalID: 1370981334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_29
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 742
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a6484fab0951444a0515208d1d0d03
+      internalID: -1332358477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_30
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 747
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ab1a45a8bb91e48a571a149faf3955
+      internalID: 461458228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 748
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bf6c355242a3947baa0ccd95ffc631
+      internalID: -132722108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_32
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 751
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ce8757b3aa8ef42bcccf015bd77cc6
+      internalID: 222305374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 751
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2446c6fd9004ea949bb5d8e519962cd7
+      internalID: 1653326631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_34
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 748
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ffe6ef3f2e7f64b85d988bf01e0d24
+      internalID: 327340952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 723
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ca0ff551e42944787307ac82989d1a
+      internalID: 1818404793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_36
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 741
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc0177777438674280c73ad9619479c
+      internalID: -652549210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_37
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 589
+        width: 138
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52874902069fe8a40a602515601ab71d
+      internalID: -550000177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_38
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 679
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c377089933a326a45a90540c406b85ec
+      internalID: -886797798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_39
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 615
+        width: 177
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5781be64b83919a41b134362e8be291c
+      internalID: -1738991831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_40
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 711
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b214394a4eb54aa7ce4550255324c
+      internalID: -856682822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 586
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2940a92c948f1b47bce0a9c3f995191
+      internalID: 1455113949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_42
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 623
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1307f4ca08387e34eb65c23d10fc436b
+      internalID: 1307028922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_43
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 583
+        width: 179
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71234947d90c22c42852b891cea1fa51
+      internalID: -849078048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 360
+        width: 189
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4d14ecfd17234caa498290055a741
+      internalID: 281211310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_45
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 454
+        width: 152
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6f8377e392b47418299df5f01a5ea8
+      internalID: 1785902059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_46
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 455
+        width: 153
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f37bd9f5048e45842b15040e2bb9e
+      internalID: -633120333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_47
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 390
+        width: 200
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975822dcda642c14c866590da1c75803
+      internalID: -432740978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_48
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 453
+        width: 187
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d070dae1ce79c4bb471f57dfa40488
+      internalID: 1541092765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 218
+        width: 134
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065f8c579a74f9343be1937ac4097326
+      internalID: 27406466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_50
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 329
+        width: 152
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87588eec7ed2f7458433e01adade673
+      internalID: -607216517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 329
+        width: 153
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b79e01428aef498e20c110657bfc2
+      internalID: -1330657746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_52
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 170
+        width: 250
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb0f77b0ff682c40a4bad39222189e6
+      internalID: 61366480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_53
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 291
+        width: 179
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb65eb89c50704796a67376ddf5845
+      internalID: 205847523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 200
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94362b5837046924485f1ba0b4c078a6
+      internalID: -2059927351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 200
+        width: 154
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c85dcde767f854e870231cc11da143
+      internalID: -587597686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_56
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 153
+        width: 45
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f2401c3f128224cbc179eccca5d6c8
+      internalID: -356892164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_57
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 264
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceda9c78bdb6a748b89087374c366f7
+      internalID: 1569938555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_58
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 208
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505cc58e34a7c4942a9dcefc555c18df
+      internalID: -425763443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 186
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5d67bf870bda4a8bcbe63c142c1d8
+      internalID: 424946376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_60
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3
+        width: 189
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f972d9bbc308b4fa8f9153b5ea48d0
+      internalID: -712708699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_61
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 89
+        width: 270
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a206c6e9e54024abdf35e044defa4d
+      internalID: -674699210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_62
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 142
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53187f102704c24e80a6c983bac4d79
+      internalID: 346866998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_63
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 89
+        width: 220
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d23efb007e2ed4e87608b22510b41e
+      internalID: -340770715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_64
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 99
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e2f7e2e01f05044aff6da9e7c3c00e
+      internalID: -225867901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_65
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 8
+        width: 231
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71892a26074f12944ac3dfe677af50cf
+      internalID: 1244866312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_66
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 67
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77f2016e17ec4540ba32b87d1ad186f
+      internalID: 750722482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_67
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 8
+        width: 249
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53557e4918f504c46ae83c9f68d8d540
+      internalID: 588030680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_68
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 26
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a44937c51f6a64cba0fccdccf9297c
+      internalID: 1932250741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_69
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68602a5f4288f7c48b9f1fd262314b24
+      internalID: -992201036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10816_zeus&prometheus_0001_70
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 20
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb624f2e982e494cbe2c419ef3afb5e
+      internalID: 428449477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a25101c69a5ca214e872f3fa3242a1d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_10816_zeus&prometheus_0001_0: 387289533
+      motion_10816_zeus&prometheus_0001_1: -1365362525
+      motion_10816_zeus&prometheus_0001_10: -1395211313
+      motion_10816_zeus&prometheus_0001_11: 1615455830
+      motion_10816_zeus&prometheus_0001_12: 1424827742
+      motion_10816_zeus&prometheus_0001_13: -554562647
+      motion_10816_zeus&prometheus_0001_14: 11644768
+      motion_10816_zeus&prometheus_0001_15: 65401771
+      motion_10816_zeus&prometheus_0001_16: -150809407
+      motion_10816_zeus&prometheus_0001_17: 1854835029
+      motion_10816_zeus&prometheus_0001_18: -35975218
+      motion_10816_zeus&prometheus_0001_19: -100075472
+      motion_10816_zeus&prometheus_0001_2: 370898325
+      motion_10816_zeus&prometheus_0001_20: 1276252681
+      motion_10816_zeus&prometheus_0001_21: 1864993516
+      motion_10816_zeus&prometheus_0001_22: -96782227
+      motion_10816_zeus&prometheus_0001_23: 2112964941
+      motion_10816_zeus&prometheus_0001_24: -1695317978
+      motion_10816_zeus&prometheus_0001_25: 1353070665
+      motion_10816_zeus&prometheus_0001_26: 779445686
+      motion_10816_zeus&prometheus_0001_27: -1218247739
+      motion_10816_zeus&prometheus_0001_28: 1370981334
+      motion_10816_zeus&prometheus_0001_29: -1332358477
+      motion_10816_zeus&prometheus_0001_3: -281216061
+      motion_10816_zeus&prometheus_0001_30: 461458228
+      motion_10816_zeus&prometheus_0001_31: -132722108
+      motion_10816_zeus&prometheus_0001_32: 222305374
+      motion_10816_zeus&prometheus_0001_33: 1653326631
+      motion_10816_zeus&prometheus_0001_34: 327340952
+      motion_10816_zeus&prometheus_0001_35: 1818404793
+      motion_10816_zeus&prometheus_0001_36: -652549210
+      motion_10816_zeus&prometheus_0001_37: -550000177
+      motion_10816_zeus&prometheus_0001_38: -886797798
+      motion_10816_zeus&prometheus_0001_39: -1738991831
+      motion_10816_zeus&prometheus_0001_4: 604295297
+      motion_10816_zeus&prometheus_0001_40: -856682822
+      motion_10816_zeus&prometheus_0001_41: 1455113949
+      motion_10816_zeus&prometheus_0001_42: 1307028922
+      motion_10816_zeus&prometheus_0001_43: -849078048
+      motion_10816_zeus&prometheus_0001_44: 281211310
+      motion_10816_zeus&prometheus_0001_45: 1785902059
+      motion_10816_zeus&prometheus_0001_46: -633120333
+      motion_10816_zeus&prometheus_0001_47: -432740978
+      motion_10816_zeus&prometheus_0001_48: 1541092765
+      motion_10816_zeus&prometheus_0001_49: 27406466
+      motion_10816_zeus&prometheus_0001_5: 1502927153
+      motion_10816_zeus&prometheus_0001_50: -607216517
+      motion_10816_zeus&prometheus_0001_51: -1330657746
+      motion_10816_zeus&prometheus_0001_52: 61366480
+      motion_10816_zeus&prometheus_0001_53: 205847523
+      motion_10816_zeus&prometheus_0001_54: -2059927351
+      motion_10816_zeus&prometheus_0001_55: -587597686
+      motion_10816_zeus&prometheus_0001_56: -356892164
+      motion_10816_zeus&prometheus_0001_57: 1569938555
+      motion_10816_zeus&prometheus_0001_58: -425763443
+      motion_10816_zeus&prometheus_0001_59: 424946376
+      motion_10816_zeus&prometheus_0001_6: -2088375910
+      motion_10816_zeus&prometheus_0001_60: -712708699
+      motion_10816_zeus&prometheus_0001_61: -674699210
+      motion_10816_zeus&prometheus_0001_62: 346866998
+      motion_10816_zeus&prometheus_0001_63: -340770715
+      motion_10816_zeus&prometheus_0001_64: -225867901
+      motion_10816_zeus&prometheus_0001_65: 1244866312
+      motion_10816_zeus&prometheus_0001_66: 750722482
+      motion_10816_zeus&prometheus_0001_67: 588030680
+      motion_10816_zeus&prometheus_0001_68: 1932250741
+      motion_10816_zeus&prometheus_0001_69: -992201036
+      motion_10816_zeus&prometheus_0001_7: 456564028
+      motion_10816_zeus&prometheus_0001_70: 428449477
+      motion_10816_zeus&prometheus_0001_8: 550767557
+      motion_10816_zeus&prometheus_0001_9: -1522773824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

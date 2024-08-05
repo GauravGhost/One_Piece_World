@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 4dea64a3bed33d442890b0704fb7550f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 779
+        width: 250
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae05aeb6044af4891dbd837e28da12
+      internalID: 1622229302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 771
+        width: 226
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9441fe5edfc0104cbce08b375f6ce48
+      internalID: 126424611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 767
+        width: 220
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9da2d4c02f65142b35c9d67e70db21
+      internalID: -1750784712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 776
+        width: 220
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cf7b3c775f60b4a91fd72ccffe1eec
+      internalID: 1545779635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_5
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 875
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a11f19e8f6db46b5bbf03add5ac4a
+      internalID: -2131147597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 783
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67185695204287542a3d1403b5f4e1b4
+      internalID: -1220289587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_10
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 779
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3937a4e32b6444ca28234c26c48257
+      internalID: 1685712455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 562
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3bb9046d393cf469d686c9784b250f
+      internalID: 290130018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_79
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 371
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d60dd2241041746aefc357b67f9cc0
+      internalID: 1573222035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_82
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 359
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77c85d235aed7f4ab405ea85cc9d915
+      internalID: -54556720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13341_nami_robin_0001_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 341
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b3a4a5499b7f348aa0197823ddcecd
+      internalID: -1007589769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e875902800f37c42b7db0301f5bed16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_13341_nami_robin_0001_0: 1622229302
+      motion_13341_nami_robin_0001_1: 126424611
+      motion_13341_nami_robin_0001_10: 1685712455
+      motion_13341_nami_robin_0001_100: 1286445119
+      motion_13341_nami_robin_0001_101: 1156222723
+      motion_13341_nami_robin_0001_102: 1053098714
+      motion_13341_nami_robin_0001_103: 1706157875
+      motion_13341_nami_robin_0001_104: 909439064
+      motion_13341_nami_robin_0001_105: -709034062
+      motion_13341_nami_robin_0001_106: 201665957
+      motion_13341_nami_robin_0001_107: -768435846
+      motion_13341_nami_robin_0001_108: 1052453882
+      motion_13341_nami_robin_0001_109: 1131235336
+      motion_13341_nami_robin_0001_11: -442246706
+      motion_13341_nami_robin_0001_110: 1444571208
+      motion_13341_nami_robin_0001_111: -734612049
+      motion_13341_nami_robin_0001_112: -548901446
+      motion_13341_nami_robin_0001_113: 1969401414
+      motion_13341_nami_robin_0001_114: 1011677740
+      motion_13341_nami_robin_0001_115: -1806475085
+      motion_13341_nami_robin_0001_116: 1933176339
+      motion_13341_nami_robin_0001_117: 180438818
+      motion_13341_nami_robin_0001_118: 21449944
+      motion_13341_nami_robin_0001_119: -689884181
+      motion_13341_nami_robin_0001_12: 723254625
+      motion_13341_nami_robin_0001_120: -1653149515
+      motion_13341_nami_robin_0001_121: -1068903546
+      motion_13341_nami_robin_0001_122: 930674755
+      motion_13341_nami_robin_0001_123: -554585275
+      motion_13341_nami_robin_0001_124: -660687049
+      motion_13341_nami_robin_0001_125: 1031048330
+      motion_13341_nami_robin_0001_126: -1147061349
+      motion_13341_nami_robin_0001_127: -1568446627
+      motion_13341_nami_robin_0001_128: 379311099
+      motion_13341_nami_robin_0001_129: 1201577623
+      motion_13341_nami_robin_0001_13: -1669490070
+      motion_13341_nami_robin_0001_130: -1937710890
+      motion_13341_nami_robin_0001_131: -863100368
+      motion_13341_nami_robin_0001_132: -1508955285
+      motion_13341_nami_robin_0001_133: 2128789026
+      motion_13341_nami_robin_0001_134: -1915301907
+      motion_13341_nami_robin_0001_135: 2058173927
+      motion_13341_nami_robin_0001_136: 822013998
+      motion_13341_nami_robin_0001_137: -31399605
+      motion_13341_nami_robin_0001_138: 280488569
+      motion_13341_nami_robin_0001_139: 2027107403
+      motion_13341_nami_robin_0001_14: -398241236
+      motion_13341_nami_robin_0001_140: 2032444221
+      motion_13341_nami_robin_0001_141: -1653919958
+      motion_13341_nami_robin_0001_142: -1969071306
+      motion_13341_nami_robin_0001_143: 83637966
+      motion_13341_nami_robin_0001_144: 2047060141
+      motion_13341_nami_robin_0001_145: 1199130489
+      motion_13341_nami_robin_0001_146: 1588995172
+      motion_13341_nami_robin_0001_147: 194932726
+      motion_13341_nami_robin_0001_148: -1020913357
+      motion_13341_nami_robin_0001_149: -729899288
+      motion_13341_nami_robin_0001_15: 1894187715
+      motion_13341_nami_robin_0001_150: 1236349142
+      motion_13341_nami_robin_0001_151: -889439908
+      motion_13341_nami_robin_0001_152: 580149104
+      motion_13341_nami_robin_0001_153: -1600244117
+      motion_13341_nami_robin_0001_154: 669560124
+      motion_13341_nami_robin_0001_155: -2081159945
+      motion_13341_nami_robin_0001_156: -2105525329
+      motion_13341_nami_robin_0001_157: 770068724
+      motion_13341_nami_robin_0001_158: 1474713523
+      motion_13341_nami_robin_0001_159: -1462233740
+      motion_13341_nami_robin_0001_16: -2075735459
+      motion_13341_nami_robin_0001_160: -340450513
+      motion_13341_nami_robin_0001_161: -1736739661
+      motion_13341_nami_robin_0001_162: -1697589132
+      motion_13341_nami_robin_0001_163: 339763076
+      motion_13341_nami_robin_0001_164: -1896073403
+      motion_13341_nami_robin_0001_165: -458093521
+      motion_13341_nami_robin_0001_166: -1258988392
+      motion_13341_nami_robin_0001_167: 170632185
+      motion_13341_nami_robin_0001_168: 1128339294
+      motion_13341_nami_robin_0001_169: -1700102867
+      motion_13341_nami_robin_0001_17: -1275849823
+      motion_13341_nami_robin_0001_170: -1348916690
+      motion_13341_nami_robin_0001_171: 1898002310
+      motion_13341_nami_robin_0001_172: -1561448177
+      motion_13341_nami_robin_0001_173: -196355115
+      motion_13341_nami_robin_0001_174: 1459901232
+      motion_13341_nami_robin_0001_175: 788133625
+      motion_13341_nami_robin_0001_176: 1433734635
+      motion_13341_nami_robin_0001_177: -263424900
+      motion_13341_nami_robin_0001_178: -369486953
+      motion_13341_nami_robin_0001_179: 1866760994
+      motion_13341_nami_robin_0001_18: 1595279725
+      motion_13341_nami_robin_0001_180: 1812276677
+      motion_13341_nami_robin_0001_181: 1560801901
+      motion_13341_nami_robin_0001_182: -1297281252
+      motion_13341_nami_robin_0001_183: -1313178731
+      motion_13341_nami_robin_0001_184: -1384944065
+      motion_13341_nami_robin_0001_185: 211808195
+      motion_13341_nami_robin_0001_186: -1709146440
+      motion_13341_nami_robin_0001_187: 817250265
+      motion_13341_nami_robin_0001_188: -731500544
+      motion_13341_nami_robin_0001_189: -951373371
+      motion_13341_nami_robin_0001_19: 1405495341
+      motion_13341_nami_robin_0001_190: -1544390677
+      motion_13341_nami_robin_0001_191: 1190516352
+      motion_13341_nami_robin_0001_192: 188587531
+      motion_13341_nami_robin_0001_193: -1336598551
+      motion_13341_nami_robin_0001_194: -273053137
+      motion_13341_nami_robin_0001_195: -645744959
+      motion_13341_nami_robin_0001_196: 819413726
+      motion_13341_nami_robin_0001_197: -768408337
+      motion_13341_nami_robin_0001_198: 98725322
+      motion_13341_nami_robin_0001_199: 816360266
+      motion_13341_nami_robin_0001_2: 1533329828
+      motion_13341_nami_robin_0001_20: -1538937888
+      motion_13341_nami_robin_0001_200: 1932057493
+      motion_13341_nami_robin_0001_201: 926497687
+      motion_13341_nami_robin_0001_202: -739152217
+      motion_13341_nami_robin_0001_203: 791112697
+      motion_13341_nami_robin_0001_204: 427481948
+      motion_13341_nami_robin_0001_205: -1731148196
+      motion_13341_nami_robin_0001_206: -1847288948
+      motion_13341_nami_robin_0001_207: -209128473
+      motion_13341_nami_robin_0001_208: 1716302810
+      motion_13341_nami_robin_0001_209: 875445621
+      motion_13341_nami_robin_0001_21: -1129174944
+      motion_13341_nami_robin_0001_210: -1074434399
+      motion_13341_nami_robin_0001_211: -1825403926
+      motion_13341_nami_robin_0001_212: -1491052945
+      motion_13341_nami_robin_0001_213: -1258479650
+      motion_13341_nami_robin_0001_214: -558493431
+      motion_13341_nami_robin_0001_215: -1794844778
+      motion_13341_nami_robin_0001_216: -1832177427
+      motion_13341_nami_robin_0001_217: -509402056
+      motion_13341_nami_robin_0001_218: -633246628
+      motion_13341_nami_robin_0001_219: -1677352641
+      motion_13341_nami_robin_0001_22: 533750541
+      motion_13341_nami_robin_0001_220: -1365598596
+      motion_13341_nami_robin_0001_221: -288777159
+      motion_13341_nami_robin_0001_222: 287443836
+      motion_13341_nami_robin_0001_223: 402798529
+      motion_13341_nami_robin_0001_224: 1208651711
+      motion_13341_nami_robin_0001_225: 1836644320
+      motion_13341_nami_robin_0001_226: 908757822
+      motion_13341_nami_robin_0001_227: 2068895698
+      motion_13341_nami_robin_0001_228: 1421815907
+      motion_13341_nami_robin_0001_229: 631580185
+      motion_13341_nami_robin_0001_23: 841123125
+      motion_13341_nami_robin_0001_230: 1561533382
+      motion_13341_nami_robin_0001_231: 564237931
+      motion_13341_nami_robin_0001_232: -1594061260
+      motion_13341_nami_robin_0001_233: 545820986
+      motion_13341_nami_robin_0001_234: -133851959
+      motion_13341_nami_robin_0001_235: -1033722626
+      motion_13341_nami_robin_0001_236: -1037843079
+      motion_13341_nami_robin_0001_237: 1903468738
+      motion_13341_nami_robin_0001_238: 317332038
+      motion_13341_nami_robin_0001_239: 1548829478
+      motion_13341_nami_robin_0001_24: 896487704
+      motion_13341_nami_robin_0001_240: 585881263
+      motion_13341_nami_robin_0001_241: 539340398
+      motion_13341_nami_robin_0001_242: -1027548022
+      motion_13341_nami_robin_0001_243: 1962628784
+      motion_13341_nami_robin_0001_244: 1890891220
+      motion_13341_nami_robin_0001_245: -290595789
+      motion_13341_nami_robin_0001_246: 604530737
+      motion_13341_nami_robin_0001_247: -1353873590
+      motion_13341_nami_robin_0001_248: 1024339326
+      motion_13341_nami_robin_0001_249: -1937173316
+      motion_13341_nami_robin_0001_25: 1986752518
+      motion_13341_nami_robin_0001_250: 2134397544
+      motion_13341_nami_robin_0001_251: 1740240770
+      motion_13341_nami_robin_0001_252: -879577401
+      motion_13341_nami_robin_0001_253: 1918090832
+      motion_13341_nami_robin_0001_254: -129464686
+      motion_13341_nami_robin_0001_255: 815991707
+      motion_13341_nami_robin_0001_256: 345268841
+      motion_13341_nami_robin_0001_257: 1375382714
+      motion_13341_nami_robin_0001_258: 1225788542
+      motion_13341_nami_robin_0001_259: 1129014686
+      motion_13341_nami_robin_0001_26: -1832513141
+      motion_13341_nami_robin_0001_260: 1535830294
+      motion_13341_nami_robin_0001_261: 876444928
+      motion_13341_nami_robin_0001_262: -32696182
+      motion_13341_nami_robin_0001_263: -421061472
+      motion_13341_nami_robin_0001_264: -1204205866
+      motion_13341_nami_robin_0001_265: 1957402255
+      motion_13341_nami_robin_0001_266: 1476181640
+      motion_13341_nami_robin_0001_267: 53106
+      motion_13341_nami_robin_0001_268: -1555108170
+      motion_13341_nami_robin_0001_269: 1808056219
+      motion_13341_nami_robin_0001_27: 1332402851
+      motion_13341_nami_robin_0001_270: -1807210066
+      motion_13341_nami_robin_0001_271: -451785864
+      motion_13341_nami_robin_0001_272: 220579649
+      motion_13341_nami_robin_0001_273: -1789922465
+      motion_13341_nami_robin_0001_274: 102956291
+      motion_13341_nami_robin_0001_275: -1656405930
+      motion_13341_nami_robin_0001_276: -2057636981
+      motion_13341_nami_robin_0001_277: 1829819406
+      motion_13341_nami_robin_0001_278: 2083874204
+      motion_13341_nami_robin_0001_279: -2060713173
+      motion_13341_nami_robin_0001_28: 272805713
+      motion_13341_nami_robin_0001_280: -939459850
+      motion_13341_nami_robin_0001_281: 2020898370
+      motion_13341_nami_robin_0001_282: 756893591
+      motion_13341_nami_robin_0001_283: 1538811457
+      motion_13341_nami_robin_0001_284: -1178952567
+      motion_13341_nami_robin_0001_285: 1425370966
+      motion_13341_nami_robin_0001_286: 1774884652
+      motion_13341_nami_robin_0001_287: -616966084
+      motion_13341_nami_robin_0001_288: 1910879352
+      motion_13341_nami_robin_0001_289: 481263008
+      motion_13341_nami_robin_0001_29: -1335195273
+      motion_13341_nami_robin_0001_290: 2074231843
+      motion_13341_nami_robin_0001_291: -1111668763
+      motion_13341_nami_robin_0001_292: -589812562
+      motion_13341_nami_robin_0001_293: 336316865
+      motion_13341_nami_robin_0001_294: 1276722236
+      motion_13341_nami_robin_0001_295: -1728753364
+      motion_13341_nami_robin_0001_296: -802865929
+      motion_13341_nami_robin_0001_297: -779081442
+      motion_13341_nami_robin_0001_298: -1232550545
+      motion_13341_nami_robin_0001_299: -503226031
+      motion_13341_nami_robin_0001_3: -1750784712
+      motion_13341_nami_robin_0001_30: 845798214
+      motion_13341_nami_robin_0001_300: 1095592227
+      motion_13341_nami_robin_0001_301: 1123067416
+      motion_13341_nami_robin_0001_302: 1222552379
+      motion_13341_nami_robin_0001_303: -1872259259
+      motion_13341_nami_robin_0001_304: -925294626
+      motion_13341_nami_robin_0001_305: 1322934350
+      motion_13341_nami_robin_0001_306: 745319962
+      motion_13341_nami_robin_0001_307: -548605885
+      motion_13341_nami_robin_0001_308: 708479354
+      motion_13341_nami_robin_0001_309: 1765739740
+      motion_13341_nami_robin_0001_31: -520619689
+      motion_13341_nami_robin_0001_310: -7878934
+      motion_13341_nami_robin_0001_311: 1564106703
+      motion_13341_nami_robin_0001_312: -299606555
+      motion_13341_nami_robin_0001_313: -626932107
+      motion_13341_nami_robin_0001_314: 944433269
+      motion_13341_nami_robin_0001_315: -1770742839
+      motion_13341_nami_robin_0001_316: -1971989505
+      motion_13341_nami_robin_0001_317: 823335963
+      motion_13341_nami_robin_0001_318: 550328323
+      motion_13341_nami_robin_0001_319: -352251930
+      motion_13341_nami_robin_0001_32: 104321524
+      motion_13341_nami_robin_0001_320: -1197368406
+      motion_13341_nami_robin_0001_321: 1589977179
+      motion_13341_nami_robin_0001_322: 1842939538
+      motion_13341_nami_robin_0001_323: 1985602086
+      motion_13341_nami_robin_0001_324: 871152250
+      motion_13341_nami_robin_0001_325: -1407964608
+      motion_13341_nami_robin_0001_326: 1562420918
+      motion_13341_nami_robin_0001_327: -2034766774
+      motion_13341_nami_robin_0001_328: -293720930
+      motion_13341_nami_robin_0001_329: 1117173727
+      motion_13341_nami_robin_0001_33: -715632071
+      motion_13341_nami_robin_0001_330: -1747836874
+      motion_13341_nami_robin_0001_331: 1204070918
+      motion_13341_nami_robin_0001_332: 1176495425
+      motion_13341_nami_robin_0001_333: 1841935212
+      motion_13341_nami_robin_0001_334: 1508909108
+      motion_13341_nami_robin_0001_335: 1175193519
+      motion_13341_nami_robin_0001_336: 1110302241
+      motion_13341_nami_robin_0001_337: 1225518302
+      motion_13341_nami_robin_0001_338: -1507645476
+      motion_13341_nami_robin_0001_339: -593945800
+      motion_13341_nami_robin_0001_34: -70520977
+      motion_13341_nami_robin_0001_340: 526638749
+      motion_13341_nami_robin_0001_341: -788716714
+      motion_13341_nami_robin_0001_342: 1920597936
+      motion_13341_nami_robin_0001_343: -1513196039
+      motion_13341_nami_robin_0001_344: 1350363828
+      motion_13341_nami_robin_0001_345: 2094053797
+      motion_13341_nami_robin_0001_35: -1064736964
+      motion_13341_nami_robin_0001_36: -1895155083
+      motion_13341_nami_robin_0001_37: 495083814
+      motion_13341_nami_robin_0001_38: 1900155555
+      motion_13341_nami_robin_0001_39: -1455920455
+      motion_13341_nami_robin_0001_4: 1545779635
+      motion_13341_nami_robin_0001_40: 2013392429
+      motion_13341_nami_robin_0001_41: 2050488834
+      motion_13341_nami_robin_0001_42: 986829980
+      motion_13341_nami_robin_0001_43: -382100316
+      motion_13341_nami_robin_0001_44: 290130018
+      motion_13341_nami_robin_0001_45: 563269504
+      motion_13341_nami_robin_0001_46: 1081299611
+      motion_13341_nami_robin_0001_47: 54689037
+      motion_13341_nami_robin_0001_48: 576357315
+      motion_13341_nami_robin_0001_49: -654346205
+      motion_13341_nami_robin_0001_5: -2131147597
+      motion_13341_nami_robin_0001_50: -1417942417
+      motion_13341_nami_robin_0001_51: 69781172
+      motion_13341_nami_robin_0001_52: -112452433
+      motion_13341_nami_robin_0001_53: 479221759
+      motion_13341_nami_robin_0001_54: -2126336363
+      motion_13341_nami_robin_0001_55: -1959226819
+      motion_13341_nami_robin_0001_56: -2106269761
+      motion_13341_nami_robin_0001_57: 1968863480
+      motion_13341_nami_robin_0001_58: 989103070
+      motion_13341_nami_robin_0001_59: 1497844050
+      motion_13341_nami_robin_0001_6: 125995218
+      motion_13341_nami_robin_0001_60: 709932096
+      motion_13341_nami_robin_0001_61: -1710915212
+      motion_13341_nami_robin_0001_62: -455851499
+      motion_13341_nami_robin_0001_63: 2021719907
+      motion_13341_nami_robin_0001_64: -816298034
+      motion_13341_nami_robin_0001_65: 991738635
+      motion_13341_nami_robin_0001_66: -567812237
+      motion_13341_nami_robin_0001_67: -1773325378
+      motion_13341_nami_robin_0001_68: -98099684
+      motion_13341_nami_robin_0001_69: -1394912189
+      motion_13341_nami_robin_0001_7: -963451043
+      motion_13341_nami_robin_0001_70: 543934810
+      motion_13341_nami_robin_0001_71: 1374255915
+      motion_13341_nami_robin_0001_72: -1225529331
+      motion_13341_nami_robin_0001_73: 892317209
+      motion_13341_nami_robin_0001_74: 450386870
+      motion_13341_nami_robin_0001_75: 589338112
+      motion_13341_nami_robin_0001_76: -148331348
+      motion_13341_nami_robin_0001_77: -1760009454
+      motion_13341_nami_robin_0001_78: -606964433
+      motion_13341_nami_robin_0001_79: 1573222035
+      motion_13341_nami_robin_0001_8: 1647935203
+      motion_13341_nami_robin_0001_80: 1179907906
+      motion_13341_nami_robin_0001_81: 2044123439
+      motion_13341_nami_robin_0001_82: -54556720
+      motion_13341_nami_robin_0001_83: -1395451472
+      motion_13341_nami_robin_0001_84: -1161650923
+      motion_13341_nami_robin_0001_85: 1380894841
+      motion_13341_nami_robin_0001_86: -1033598725
+      motion_13341_nami_robin_0001_87: 1779474861
+      motion_13341_nami_robin_0001_88: -279265527
+      motion_13341_nami_robin_0001_89: -1007589769
+      motion_13341_nami_robin_0001_9: -1220289587
+      motion_13341_nami_robin_0001_90: 1144524138
+      motion_13341_nami_robin_0001_91: 707074702
+      motion_13341_nami_robin_0001_92: -518458741
+      motion_13341_nami_robin_0001_93: -57221892
+      motion_13341_nami_robin_0001_94: -933884600
+      motion_13341_nami_robin_0001_95: 1137209882
+      motion_13341_nami_robin_0001_96: -1432288928
+      motion_13341_nami_robin_0001_97: 182717029
+      motion_13341_nami_robin_0001_98: -422957462
+      motion_13341_nami_robin_0001_99: 2118908261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

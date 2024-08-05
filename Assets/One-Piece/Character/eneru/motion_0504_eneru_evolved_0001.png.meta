@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 3b2322d830247fd448471d1e838a9c25
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 847
+        width: 129
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fd5aa8e791734459d7bec1c7dffc80
+      internalID: 1297139559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 802
+        width: 136
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96fbee65c605624bad8203cdd03b627
+      internalID: 772380155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 802
+        width: 136
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e2b402dcd3c5c47a9a9d69a6815e6a
+      internalID: 845420512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 802
+        width: 136
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fe1923acaa99e47b2dd266d8917987
+      internalID: -948517717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 802
+        width: 136
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f80e52f72d5cf14aad7873eb2e9eb38
+      internalID: -1491250737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_5
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 802
+        width: 136
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94eda6806b4fc642bbb649230db3712
+      internalID: 929152930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 655
+        width: 129
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe87ca712aff94684b7ea406670f98
+      internalID: -219701715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 321
+        width: 336
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483cb4c27a812264187622f2531209da
+      internalID: -688485045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 320
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699eb104790d6254b93a6027dd869beb
+      internalID: -1670401205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 320
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9268b3e33bd2143a55ace9aca4e58a
+      internalID: 406867921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_28
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 456
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c251b41d85bbad04c9929d3d70fc4625
+      internalID: -1123826193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 781
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e680383edc24a34ca4b67380875d462
+      internalID: 1628575000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 194
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbee5b90e8079f41be7704d815deb13
+      internalID: -645734685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 254
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029890440a27ac4790947d2322190f7
+      internalID: -44956773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1
+        width: 190
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f95182f54f3b84caf724f7529284cb
+      internalID: -1939559689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0504_eneru_evolved_0001_39
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1
+        width: 336
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a9ef396f3ac8e4188cb01fe08108cd
+      internalID: -1596664462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 87d4b8887e3252d4fac36d0e90c3f9ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_0504_eneru_evolved_0001_0: 1297139559
+      motion_0504_eneru_evolved_0001_1: 772380155
+      motion_0504_eneru_evolved_0001_10: 470791435
+      motion_0504_eneru_evolved_0001_11: -2023477363
+      motion_0504_eneru_evolved_0001_12: -1128630285
+      motion_0504_eneru_evolved_0001_13: 1744897002
+      motion_0504_eneru_evolved_0001_14: 705599751
+      motion_0504_eneru_evolved_0001_15: -325705602
+      motion_0504_eneru_evolved_0001_16: -540195721
+      motion_0504_eneru_evolved_0001_17: -1581010308
+      motion_0504_eneru_evolved_0001_18: 1646655558
+      motion_0504_eneru_evolved_0001_19: 1630546213
+      motion_0504_eneru_evolved_0001_2: 845420512
+      motion_0504_eneru_evolved_0001_20: 773070350
+      motion_0504_eneru_evolved_0001_21: -907412099
+      motion_0504_eneru_evolved_0001_22: 1880827385
+      motion_0504_eneru_evolved_0001_23: -1477989889
+      motion_0504_eneru_evolved_0001_24: -688485045
+      motion_0504_eneru_evolved_0001_25: -1670401205
+      motion_0504_eneru_evolved_0001_26: 406867921
+      motion_0504_eneru_evolved_0001_27: 198584119
+      motion_0504_eneru_evolved_0001_28: -1123826193
+      motion_0504_eneru_evolved_0001_29: -956830654
+      motion_0504_eneru_evolved_0001_3: -948517717
+      motion_0504_eneru_evolved_0001_30: 1283292958
+      motion_0504_eneru_evolved_0001_31: 1628575000
+      motion_0504_eneru_evolved_0001_32: 883573043
+      motion_0504_eneru_evolved_0001_33: -1825717258
+      motion_0504_eneru_evolved_0001_34: 1569056504
+      motion_0504_eneru_evolved_0001_35: -645734685
+      motion_0504_eneru_evolved_0001_36: -44956773
+      motion_0504_eneru_evolved_0001_37: -1939559689
+      motion_0504_eneru_evolved_0001_38: 547795186
+      motion_0504_eneru_evolved_0001_39: -1596664462
+      motion_0504_eneru_evolved_0001_4: -1491250737
+      motion_0504_eneru_evolved_0001_5: 929152930
+      motion_0504_eneru_evolved_0001_6: 1186636699
+      motion_0504_eneru_evolved_0001_7: 1149128861
+      motion_0504_eneru_evolved_0001_8: -89470146
+      motion_0504_eneru_evolved_0001_9: -219701715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 6ba13f7e9a94af848be53decf75a7bf2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 705
+        width: 512
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335c0b6f89aedd045910d61bf2ba74df
+      internalID: 516509809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 705
+        width: 24
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a255489fd996e4a94b32d6a88d5281
+      internalID: -2100422268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 786
+        width: 322
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5086c12b6ab00f345b8d678fd30ea577
+      internalID: -776928117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_8
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a09db8cd339f264e8bcafe0d76ee636
+      internalID: -144597042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_9
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 933
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d9d0c5fab88a041ab9492c2a317754
+      internalID: -1976211071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 533
+        width: 329
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5ef4d8f1921340bf36e1415ba8d3b
+      internalID: 1772341713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 426
+        width: 439
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ca51896a6099341b79b744a15829b6
+      internalID: -371624395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_18
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 676
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07314350946b5034a9898abfcdf02ab0
+      internalID: -1422851089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_22
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bdc3c3b5dc87046ac6d15aba61aabd
+      internalID: 1675983318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quest_map_advent_sabo_1_02_42
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 134
+        width: 518
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5a495ef215f54f85508bb8b2de24f
+      internalID: 89847496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6dc8a72a381cb6f478a082a48770d2fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      quest_map_advent_sabo_1_02_0: 516509809
+      quest_map_advent_sabo_1_02_1: -2100422268
+      quest_map_advent_sabo_1_02_10: -1692096654
+      quest_map_advent_sabo_1_02_100: -283348569
+      quest_map_advent_sabo_1_02_101: -8595091
+      quest_map_advent_sabo_1_02_102: 1414859564
+      quest_map_advent_sabo_1_02_103: -884077312
+      quest_map_advent_sabo_1_02_104: 173492732
+      quest_map_advent_sabo_1_02_105: 2039591982
+      quest_map_advent_sabo_1_02_106: 1820698329
+      quest_map_advent_sabo_1_02_107: -247774338
+      quest_map_advent_sabo_1_02_108: -1119243349
+      quest_map_advent_sabo_1_02_109: 156572639
+      quest_map_advent_sabo_1_02_11: 1772341713
+      quest_map_advent_sabo_1_02_110: -1845703565
+      quest_map_advent_sabo_1_02_111: -947989619
+      quest_map_advent_sabo_1_02_112: -1100514504
+      quest_map_advent_sabo_1_02_113: 1128896864
+      quest_map_advent_sabo_1_02_114: 820494003
+      quest_map_advent_sabo_1_02_115: -1661319324
+      quest_map_advent_sabo_1_02_116: -1128128557
+      quest_map_advent_sabo_1_02_117: 2117521840
+      quest_map_advent_sabo_1_02_118: -1372224418
+      quest_map_advent_sabo_1_02_119: 1177026853
+      quest_map_advent_sabo_1_02_12: -854967749
+      quest_map_advent_sabo_1_02_120: -1192185766
+      quest_map_advent_sabo_1_02_121: 309886072
+      quest_map_advent_sabo_1_02_122: 1349398020
+      quest_map_advent_sabo_1_02_123: -1922030527
+      quest_map_advent_sabo_1_02_124: 763592914
+      quest_map_advent_sabo_1_02_125: 279790346
+      quest_map_advent_sabo_1_02_126: 1336169551
+      quest_map_advent_sabo_1_02_127: 1033723554
+      quest_map_advent_sabo_1_02_128: -1766738542
+      quest_map_advent_sabo_1_02_129: 1117643631
+      quest_map_advent_sabo_1_02_13: -371624395
+      quest_map_advent_sabo_1_02_130: 470653693
+      quest_map_advent_sabo_1_02_131: 2003887884
+      quest_map_advent_sabo_1_02_132: -150144204
+      quest_map_advent_sabo_1_02_133: -918018363
+      quest_map_advent_sabo_1_02_134: -1033242556
+      quest_map_advent_sabo_1_02_135: -720065893
+      quest_map_advent_sabo_1_02_136: 1629474314
+      quest_map_advent_sabo_1_02_137: 898342971
+      quest_map_advent_sabo_1_02_138: 1542165782
+      quest_map_advent_sabo_1_02_139: -296151558
+      quest_map_advent_sabo_1_02_14: 1001917920
+      quest_map_advent_sabo_1_02_140: -577717798
+      quest_map_advent_sabo_1_02_141: 1860513418
+      quest_map_advent_sabo_1_02_142: 1249248732
+      quest_map_advent_sabo_1_02_143: -634613488
+      quest_map_advent_sabo_1_02_144: -1816319039
+      quest_map_advent_sabo_1_02_145: 541017604
+      quest_map_advent_sabo_1_02_146: 589585416
+      quest_map_advent_sabo_1_02_147: 1113837584
+      quest_map_advent_sabo_1_02_148: -1996880866
+      quest_map_advent_sabo_1_02_149: -252531662
+      quest_map_advent_sabo_1_02_15: -169454524
+      quest_map_advent_sabo_1_02_150: -70786042
+      quest_map_advent_sabo_1_02_151: 1959827170
+      quest_map_advent_sabo_1_02_152: -1628560864
+      quest_map_advent_sabo_1_02_153: 317528024
+      quest_map_advent_sabo_1_02_154: -840344822
+      quest_map_advent_sabo_1_02_155: -341040445
+      quest_map_advent_sabo_1_02_156: 879779776
+      quest_map_advent_sabo_1_02_157: 1389895458
+      quest_map_advent_sabo_1_02_158: -924709499
+      quest_map_advent_sabo_1_02_159: -1767833155
+      quest_map_advent_sabo_1_02_16: 1716106537
+      quest_map_advent_sabo_1_02_160: 231484317
+      quest_map_advent_sabo_1_02_161: -1925415573
+      quest_map_advent_sabo_1_02_162: 483947259
+      quest_map_advent_sabo_1_02_163: 1213603519
+      quest_map_advent_sabo_1_02_164: 273521432
+      quest_map_advent_sabo_1_02_165: -597856502
+      quest_map_advent_sabo_1_02_166: 1751149129
+      quest_map_advent_sabo_1_02_167: -1757066709
+      quest_map_advent_sabo_1_02_168: -639592440
+      quest_map_advent_sabo_1_02_169: -1134593905
+      quest_map_advent_sabo_1_02_17: -1004161276
+      quest_map_advent_sabo_1_02_170: -1510366676
+      quest_map_advent_sabo_1_02_171: 256765491
+      quest_map_advent_sabo_1_02_172: 730143138
+      quest_map_advent_sabo_1_02_173: -762213772
+      quest_map_advent_sabo_1_02_174: 1209177737
+      quest_map_advent_sabo_1_02_175: 1261604154
+      quest_map_advent_sabo_1_02_176: 1874986142
+      quest_map_advent_sabo_1_02_177: 514128307
+      quest_map_advent_sabo_1_02_178: 1188526762
+      quest_map_advent_sabo_1_02_179: -842883127
+      quest_map_advent_sabo_1_02_18: -1422851089
+      quest_map_advent_sabo_1_02_180: 665553795
+      quest_map_advent_sabo_1_02_181: -91093570
+      quest_map_advent_sabo_1_02_182: 1110473431
+      quest_map_advent_sabo_1_02_183: 1293243765
+      quest_map_advent_sabo_1_02_184: 1753277411
+      quest_map_advent_sabo_1_02_185: -644397013
+      quest_map_advent_sabo_1_02_186: 974698880
+      quest_map_advent_sabo_1_02_187: 935637091
+      quest_map_advent_sabo_1_02_188: -950378727
+      quest_map_advent_sabo_1_02_189: 286463198
+      quest_map_advent_sabo_1_02_19: 1986616889
+      quest_map_advent_sabo_1_02_190: 1693970647
+      quest_map_advent_sabo_1_02_191: -176859829
+      quest_map_advent_sabo_1_02_192: 17297121
+      quest_map_advent_sabo_1_02_193: 903274625
+      quest_map_advent_sabo_1_02_194: 365965946
+      quest_map_advent_sabo_1_02_195: 1344449728
+      quest_map_advent_sabo_1_02_196: 413765976
+      quest_map_advent_sabo_1_02_197: 772757582
+      quest_map_advent_sabo_1_02_198: -965081468
+      quest_map_advent_sabo_1_02_199: 129124252
+      quest_map_advent_sabo_1_02_2: -776928117
+      quest_map_advent_sabo_1_02_20: -110203880
+      quest_map_advent_sabo_1_02_200: 791073945
+      quest_map_advent_sabo_1_02_201: 1474712062
+      quest_map_advent_sabo_1_02_202: 1323305514
+      quest_map_advent_sabo_1_02_203: -1721626363
+      quest_map_advent_sabo_1_02_204: -117568868
+      quest_map_advent_sabo_1_02_205: -894015757
+      quest_map_advent_sabo_1_02_206: -1320740476
+      quest_map_advent_sabo_1_02_207: 1502754680
+      quest_map_advent_sabo_1_02_208: -62422315
+      quest_map_advent_sabo_1_02_209: 1796753598
+      quest_map_advent_sabo_1_02_21: -1620894353
+      quest_map_advent_sabo_1_02_210: 242775260
+      quest_map_advent_sabo_1_02_22: 1675983318
+      quest_map_advent_sabo_1_02_23: -774300914
+      quest_map_advent_sabo_1_02_24: 1141501586
+      quest_map_advent_sabo_1_02_25: 10483285
+      quest_map_advent_sabo_1_02_26: -533595630
+      quest_map_advent_sabo_1_02_27: -1039033568
+      quest_map_advent_sabo_1_02_28: 239057470
+      quest_map_advent_sabo_1_02_29: -109978477
+      quest_map_advent_sabo_1_02_3: -660775931
+      quest_map_advent_sabo_1_02_30: -2056859291
+      quest_map_advent_sabo_1_02_31: 1679092200
+      quest_map_advent_sabo_1_02_32: 534806102
+      quest_map_advent_sabo_1_02_33: 898828433
+      quest_map_advent_sabo_1_02_34: -388164168
+      quest_map_advent_sabo_1_02_35: -90661990
+      quest_map_advent_sabo_1_02_36: -2069961615
+      quest_map_advent_sabo_1_02_37: 1553799330
+      quest_map_advent_sabo_1_02_38: 524287632
+      quest_map_advent_sabo_1_02_39: 785302698
+      quest_map_advent_sabo_1_02_4: 997318295
+      quest_map_advent_sabo_1_02_40: 1073687298
+      quest_map_advent_sabo_1_02_41: 102483781
+      quest_map_advent_sabo_1_02_42: 89847496
+      quest_map_advent_sabo_1_02_43: -143258429
+      quest_map_advent_sabo_1_02_44: -216579308
+      quest_map_advent_sabo_1_02_45: -1125470815
+      quest_map_advent_sabo_1_02_46: -1498638063
+      quest_map_advent_sabo_1_02_47: 846192738
+      quest_map_advent_sabo_1_02_48: -1514364107
+      quest_map_advent_sabo_1_02_49: 1630788739
+      quest_map_advent_sabo_1_02_5: 1295385863
+      quest_map_advent_sabo_1_02_50: -115783697
+      quest_map_advent_sabo_1_02_51: 1693292806
+      quest_map_advent_sabo_1_02_52: -223530775
+      quest_map_advent_sabo_1_02_53: -1568192253
+      quest_map_advent_sabo_1_02_54: -1708625586
+      quest_map_advent_sabo_1_02_55: -249333660
+      quest_map_advent_sabo_1_02_56: 813995874
+      quest_map_advent_sabo_1_02_57: 663551911
+      quest_map_advent_sabo_1_02_58: 1828915173
+      quest_map_advent_sabo_1_02_59: -1527636851
+      quest_map_advent_sabo_1_02_6: -1310496393
+      quest_map_advent_sabo_1_02_60: -936425387
+      quest_map_advent_sabo_1_02_61: 1578239821
+      quest_map_advent_sabo_1_02_62: -203157974
+      quest_map_advent_sabo_1_02_63: -556892775
+      quest_map_advent_sabo_1_02_64: 1656477786
+      quest_map_advent_sabo_1_02_65: -724757622
+      quest_map_advent_sabo_1_02_66: -2000657629
+      quest_map_advent_sabo_1_02_67: -584259957
+      quest_map_advent_sabo_1_02_68: -1278814637
+      quest_map_advent_sabo_1_02_69: 407024620
+      quest_map_advent_sabo_1_02_7: 1429308223
+      quest_map_advent_sabo_1_02_70: 384854783
+      quest_map_advent_sabo_1_02_71: 243172419
+      quest_map_advent_sabo_1_02_72: 1713360394
+      quest_map_advent_sabo_1_02_73: -433124572
+      quest_map_advent_sabo_1_02_74: -1867439620
+      quest_map_advent_sabo_1_02_75: -1504379703
+      quest_map_advent_sabo_1_02_76: -1278570209
+      quest_map_advent_sabo_1_02_77: -1004045105
+      quest_map_advent_sabo_1_02_78: 525705231
+      quest_map_advent_sabo_1_02_79: 889339772
+      quest_map_advent_sabo_1_02_8: -144597042
+      quest_map_advent_sabo_1_02_80: -501507042
+      quest_map_advent_sabo_1_02_81: 1763825262
+      quest_map_advent_sabo_1_02_82: 421155427
+      quest_map_advent_sabo_1_02_83: 1076419283
+      quest_map_advent_sabo_1_02_84: 1061887731
+      quest_map_advent_sabo_1_02_85: -1459156731
+      quest_map_advent_sabo_1_02_86: -2125418747
+      quest_map_advent_sabo_1_02_87: 1917014531
+      quest_map_advent_sabo_1_02_88: -829242423
+      quest_map_advent_sabo_1_02_89: 1398248770
+      quest_map_advent_sabo_1_02_9: -1976211071
+      quest_map_advent_sabo_1_02_90: 99640810
+      quest_map_advent_sabo_1_02_91: 144666644
+      quest_map_advent_sabo_1_02_92: 608444790
+      quest_map_advent_sabo_1_02_93: 667931549
+      quest_map_advent_sabo_1_02_94: -66211469
+      quest_map_advent_sabo_1_02_95: -49294183
+      quest_map_advent_sabo_1_02_96: 1137992573
+      quest_map_advent_sabo_1_02_97: 1496014025
+      quest_map_advent_sabo_1_02_98: 1246825604
+      quest_map_advent_sabo_1_02_99: -328861379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

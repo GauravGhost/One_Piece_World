@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: a3678f4a902f9964e9dd251d86990513
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_0
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 837
+        width: 158
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adca48dd050eda949902e4ec07105091
+      internalID: -1053369577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_4
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1008
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff6418a78b0c6f4cb63849cc5992562
+      internalID: 1149165806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 837
+        width: 160
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611357c78c9437e4a8df0fb7fb9926be
+      internalID: 326918139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 837
+        width: 161
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba1351d5348239498de8b24646c48bf
+      internalID: -1058884216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 837
+        width: 163
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f61bd5789e6147871cbd5d1854fd8
+      internalID: -249024948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 837
+        width: 160
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4344d40ddc0d42abebf9dc727a185
+      internalID: -1709558458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 628
+        width: 97
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e3d4ef95636b498883b32b9214f03
+      internalID: 1043590674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 628
+        width: 100
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f249c7c152ae4d9930218cb3da986
+      internalID: 521323810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 628
+        width: 100
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078b02a46eee5ba469f4a327a5fb363e
+      internalID: 1150519922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 628
+        width: 100
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d1755ab3e675a4ea8c95b8138d412c
+      internalID: -1294333150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 628
+        width: 100
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c361f1fbedb604489fa1d38a22591f
+      internalID: -1865002035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_27
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 648
+        width: 177
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222c5182698281141947babb802c0fa6
+      internalID: 662132801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_28
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 821
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c345edc1663b2a744a30f8a0566e8dac
+      internalID: 155204203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_29
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 646
+        width: 118
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7927cb1286cda442a6401f71f8be09c
+      internalID: -718892446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 451
+        width: 145
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1d5af8b3b1b344cabb728b8a87b8da
+      internalID: -702160851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 451
+        width: 153
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773881fcd98e35a4791835a696b86ff5
+      internalID: 1977244444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 451
+        width: 153
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0262e390e72fd94a8036f897735269f
+      internalID: 52507315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_50
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 451
+        width: 182
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7684df7b4e5e3ee46877554877de7a1a
+      internalID: 40784166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_51
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 451
+        width: 182
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a47e543331d34b98158b0c1dcd778
+      internalID: 715266881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 509
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5877461bdca9d49478d2b0d1ab21a72d
+      internalID: 1904733157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_60
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 394
+        width: 132
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc19e02e3b08064fabda0325310cf6b
+      internalID: 148387892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 269
+        width: 182
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb8aae25fc97d42a480a006e3987a8
+      internalID: 1303191925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_63
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 396
+        width: 150
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85335731ba47c464db6305d83906939f
+      internalID: 930428561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 402
+        width: 136
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf874cc754800747909c1b092493c4e
+      internalID: 621014271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_115
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 113
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf7c14d4cff00a49a6e8fa2d4819f36
+      internalID: -1866816576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_116
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 88
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a26e79115f204743bcb9032885c18fe
+      internalID: -1791011729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10644_sabo_evolved_0001_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 225
+        width: 202
+        height: 167
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.5137857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cdb08cdbdf8e24382bfa2b15c6cff6
+      internalID: -422544116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5fd208c3856b09449784df134957a34
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_10644_sabo_evolved_0001_0: -1053369577
+      motion_10644_sabo_evolved_0001_1: -422544116
+      motion_10644_sabo_evolved_0001_10: 2069827543
+      motion_10644_sabo_evolved_0001_100: -77907296
+      motion_10644_sabo_evolved_0001_101: 20529022
+      motion_10644_sabo_evolved_0001_102: 2029148338
+      motion_10644_sabo_evolved_0001_103: -381060734
+      motion_10644_sabo_evolved_0001_104: -1183138467
+      motion_10644_sabo_evolved_0001_105: -157767516
+      motion_10644_sabo_evolved_0001_106: 932982039
+      motion_10644_sabo_evolved_0001_107: 2041706479
+      motion_10644_sabo_evolved_0001_108: 140009852
+      motion_10644_sabo_evolved_0001_109: -462275378
+      motion_10644_sabo_evolved_0001_11: 82191082
+      motion_10644_sabo_evolved_0001_110: -1432705993
+      motion_10644_sabo_evolved_0001_111: -609332340
+      motion_10644_sabo_evolved_0001_112: -835208811
+      motion_10644_sabo_evolved_0001_113: 875289248
+      motion_10644_sabo_evolved_0001_114: 432051333
+      motion_10644_sabo_evolved_0001_115: -1866816576
+      motion_10644_sabo_evolved_0001_116: -1791011729
+      motion_10644_sabo_evolved_0001_117: 840219761
+      motion_10644_sabo_evolved_0001_118: -701023457
+      motion_10644_sabo_evolved_0001_119: -141817359
+      motion_10644_sabo_evolved_0001_12: 437917597
+      motion_10644_sabo_evolved_0001_120: 713691378
+      motion_10644_sabo_evolved_0001_121: -174772915
+      motion_10644_sabo_evolved_0001_122: -1568729380
+      motion_10644_sabo_evolved_0001_123: -1099989846
+      motion_10644_sabo_evolved_0001_124: -1472011550
+      motion_10644_sabo_evolved_0001_125: 1788331948
+      motion_10644_sabo_evolved_0001_126: 1796995537
+      motion_10644_sabo_evolved_0001_127: -378599014
+      motion_10644_sabo_evolved_0001_128: -1525674267
+      motion_10644_sabo_evolved_0001_129: -133740122
+      motion_10644_sabo_evolved_0001_13: -1968033447
+      motion_10644_sabo_evolved_0001_130: 1793076685
+      motion_10644_sabo_evolved_0001_131: -2057954258
+      motion_10644_sabo_evolved_0001_132: 345710686
+      motion_10644_sabo_evolved_0001_133: 948389792
+      motion_10644_sabo_evolved_0001_134: -978394037
+      motion_10644_sabo_evolved_0001_135: 2139737910
+      motion_10644_sabo_evolved_0001_136: -1847140822
+      motion_10644_sabo_evolved_0001_137: 21632616
+      motion_10644_sabo_evolved_0001_138: -1803204084
+      motion_10644_sabo_evolved_0001_139: -1912924026
+      motion_10644_sabo_evolved_0001_14: -967578177
+      motion_10644_sabo_evolved_0001_140: 116746287
+      motion_10644_sabo_evolved_0001_141: -249334996
+      motion_10644_sabo_evolved_0001_142: -296246870
+      motion_10644_sabo_evolved_0001_143: 2047567738
+      motion_10644_sabo_evolved_0001_144: -1497231454
+      motion_10644_sabo_evolved_0001_145: 1213329418
+      motion_10644_sabo_evolved_0001_146: 1788001978
+      motion_10644_sabo_evolved_0001_147: -1898172667
+      motion_10644_sabo_evolved_0001_148: -578400885
+      motion_10644_sabo_evolved_0001_149: 1714122578
+      motion_10644_sabo_evolved_0001_15: -978685487
+      motion_10644_sabo_evolved_0001_150: 693427483
+      motion_10644_sabo_evolved_0001_151: -1669220319
+      motion_10644_sabo_evolved_0001_152: 1365403667
+      motion_10644_sabo_evolved_0001_153: 1861785382
+      motion_10644_sabo_evolved_0001_154: 1483281622
+      motion_10644_sabo_evolved_0001_155: 1483914995
+      motion_10644_sabo_evolved_0001_156: -998924504
+      motion_10644_sabo_evolved_0001_157: -2119607561
+      motion_10644_sabo_evolved_0001_158: 525848177
+      motion_10644_sabo_evolved_0001_159: 1757759615
+      motion_10644_sabo_evolved_0001_16: 1973240755
+      motion_10644_sabo_evolved_0001_160: 1278716520
+      motion_10644_sabo_evolved_0001_161: 75437468
+      motion_10644_sabo_evolved_0001_162: -192693188
+      motion_10644_sabo_evolved_0001_163: -1381180640
+      motion_10644_sabo_evolved_0001_164: 33204966
+      motion_10644_sabo_evolved_0001_165: -1367541962
+      motion_10644_sabo_evolved_0001_166: 1903326733
+      motion_10644_sabo_evolved_0001_167: -1670826949
+      motion_10644_sabo_evolved_0001_168: -1341100198
+      motion_10644_sabo_evolved_0001_169: -674852238
+      motion_10644_sabo_evolved_0001_17: -1844831616
+      motion_10644_sabo_evolved_0001_170: -1324334259
+      motion_10644_sabo_evolved_0001_171: -1243711610
+      motion_10644_sabo_evolved_0001_172: 304080624
+      motion_10644_sabo_evolved_0001_173: 1927309882
+      motion_10644_sabo_evolved_0001_174: -2090066567
+      motion_10644_sabo_evolved_0001_175: -369629376
+      motion_10644_sabo_evolved_0001_176: -545757324
+      motion_10644_sabo_evolved_0001_177: -235691292
+      motion_10644_sabo_evolved_0001_178: 1119061140
+      motion_10644_sabo_evolved_0001_179: 816431330
+      motion_10644_sabo_evolved_0001_18: 1513680796
+      motion_10644_sabo_evolved_0001_180: -2003312493
+      motion_10644_sabo_evolved_0001_181: -427638294
+      motion_10644_sabo_evolved_0001_182: 2099133069
+      motion_10644_sabo_evolved_0001_183: 1620145325
+      motion_10644_sabo_evolved_0001_184: 370606952
+      motion_10644_sabo_evolved_0001_185: 1172829924
+      motion_10644_sabo_evolved_0001_186: -2018937260
+      motion_10644_sabo_evolved_0001_187: 87495817
+      motion_10644_sabo_evolved_0001_188: -2124998292
+      motion_10644_sabo_evolved_0001_189: 559257036
+      motion_10644_sabo_evolved_0001_19: 952100686
+      motion_10644_sabo_evolved_0001_190: -1281768352
+      motion_10644_sabo_evolved_0001_191: 167003642
+      motion_10644_sabo_evolved_0001_192: 79636072
+      motion_10644_sabo_evolved_0001_193: 1151817847
+      motion_10644_sabo_evolved_0001_194: -1028427935
+      motion_10644_sabo_evolved_0001_195: -1035573392
+      motion_10644_sabo_evolved_0001_196: -1721784481
+      motion_10644_sabo_evolved_0001_197: -1090896454
+      motion_10644_sabo_evolved_0001_198: -1930243819
+      motion_10644_sabo_evolved_0001_199: 136257135
+      motion_10644_sabo_evolved_0001_2: -450002547
+      motion_10644_sabo_evolved_0001_20: 1211232291
+      motion_10644_sabo_evolved_0001_200: 1707972775
+      motion_10644_sabo_evolved_0001_21: -141013337
+      motion_10644_sabo_evolved_0001_22: 1043590674
+      motion_10644_sabo_evolved_0001_23: 521323810
+      motion_10644_sabo_evolved_0001_24: 1150519922
+      motion_10644_sabo_evolved_0001_25: -1294333150
+      motion_10644_sabo_evolved_0001_26: -1865002035
+      motion_10644_sabo_evolved_0001_27: 662132801
+      motion_10644_sabo_evolved_0001_28: 155204203
+      motion_10644_sabo_evolved_0001_29: -718892446
+      motion_10644_sabo_evolved_0001_3: 100531016
+      motion_10644_sabo_evolved_0001_30: -1602963415
+      motion_10644_sabo_evolved_0001_31: 597634618
+      motion_10644_sabo_evolved_0001_32: -345037611
+      motion_10644_sabo_evolved_0001_33: -121358674
+      motion_10644_sabo_evolved_0001_34: -1887953474
+      motion_10644_sabo_evolved_0001_35: -309884048
+      motion_10644_sabo_evolved_0001_36: -1973311267
+      motion_10644_sabo_evolved_0001_37: 1080256797
+      motion_10644_sabo_evolved_0001_38: 2008804896
+      motion_10644_sabo_evolved_0001_39: -1956197989
+      motion_10644_sabo_evolved_0001_4: 1149165806
+      motion_10644_sabo_evolved_0001_40: -1072415804
+      motion_10644_sabo_evolved_0001_41: 1794306863
+      motion_10644_sabo_evolved_0001_42: -1437162502
+      motion_10644_sabo_evolved_0001_43: -650982974
+      motion_10644_sabo_evolved_0001_44: 751479214
+      motion_10644_sabo_evolved_0001_45: 208271728
+      motion_10644_sabo_evolved_0001_46: -810834718
+      motion_10644_sabo_evolved_0001_47: -702160851
+      motion_10644_sabo_evolved_0001_48: 1977244444
+      motion_10644_sabo_evolved_0001_49: 52507315
+      motion_10644_sabo_evolved_0001_5: 759010400
+      motion_10644_sabo_evolved_0001_50: 40784166
+      motion_10644_sabo_evolved_0001_51: 715266881
+      motion_10644_sabo_evolved_0001_52: -2084593095
+      motion_10644_sabo_evolved_0001_53: 1357580005
+      motion_10644_sabo_evolved_0001_54: -379266837
+      motion_10644_sabo_evolved_0001_55: 1862693227
+      motion_10644_sabo_evolved_0001_56: 1904733157
+      motion_10644_sabo_evolved_0001_57: -1392159407
+      motion_10644_sabo_evolved_0001_58: -1554074697
+      motion_10644_sabo_evolved_0001_59: -84119386
+      motion_10644_sabo_evolved_0001_6: 326918139
+      motion_10644_sabo_evolved_0001_60: 148387892
+      motion_10644_sabo_evolved_0001_61: 638078342
+      motion_10644_sabo_evolved_0001_62: 1303191925
+      motion_10644_sabo_evolved_0001_63: 930428561
+      motion_10644_sabo_evolved_0001_64: 621014271
+      motion_10644_sabo_evolved_0001_65: 1293815770
+      motion_10644_sabo_evolved_0001_66: 586151230
+      motion_10644_sabo_evolved_0001_67: -2134950230
+      motion_10644_sabo_evolved_0001_68: 15388885
+      motion_10644_sabo_evolved_0001_69: -687856556
+      motion_10644_sabo_evolved_0001_7: -1058884216
+      motion_10644_sabo_evolved_0001_70: -48702978
+      motion_10644_sabo_evolved_0001_71: 477892060
+      motion_10644_sabo_evolved_0001_72: -1178285426
+      motion_10644_sabo_evolved_0001_73: -2037792767
+      motion_10644_sabo_evolved_0001_74: 2017694002
+      motion_10644_sabo_evolved_0001_75: -1674708447
+      motion_10644_sabo_evolved_0001_76: -633079856
+      motion_10644_sabo_evolved_0001_77: 1095312145
+      motion_10644_sabo_evolved_0001_78: 2055309637
+      motion_10644_sabo_evolved_0001_79: -2078328925
+      motion_10644_sabo_evolved_0001_8: -249024948
+      motion_10644_sabo_evolved_0001_80: 1424121323
+      motion_10644_sabo_evolved_0001_81: 792340720
+      motion_10644_sabo_evolved_0001_82: -590463513
+      motion_10644_sabo_evolved_0001_83: 38336988
+      motion_10644_sabo_evolved_0001_84: 549644092
+      motion_10644_sabo_evolved_0001_85: 1167485107
+      motion_10644_sabo_evolved_0001_86: -2061595253
+      motion_10644_sabo_evolved_0001_87: 305035728
+      motion_10644_sabo_evolved_0001_88: -963615950
+      motion_10644_sabo_evolved_0001_89: 1765241548
+      motion_10644_sabo_evolved_0001_9: -1709558458
+      motion_10644_sabo_evolved_0001_90: -1731545308
+      motion_10644_sabo_evolved_0001_91: 777516690
+      motion_10644_sabo_evolved_0001_92: 1409400440
+      motion_10644_sabo_evolved_0001_93: 1337140063
+      motion_10644_sabo_evolved_0001_94: -1326347529
+      motion_10644_sabo_evolved_0001_95: -1475343924
+      motion_10644_sabo_evolved_0001_96: -2023784584
+      motion_10644_sabo_evolved_0001_97: 1079957227
+      motion_10644_sabo_evolved_0001_98: -1921417951
+      motion_10644_sabo_evolved_0001_99: 87152500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

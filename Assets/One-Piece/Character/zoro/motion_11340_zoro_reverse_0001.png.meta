@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: a03b8c491055df2429b02999641ab758
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 822
+        width: 103
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80cb928cd596e349a819b46b4cc1510
+      internalID: -435354419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 822
+        width: 103
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a788d1f1743e184ba3cbb2ba654011a
+      internalID: 128558203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 822
+        width: 103
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e5dedb7c6625d4b9ee0bdee37d2d7c
+      internalID: 348787606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 822
+        width: 103
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f107908ab0fc64d98eedabbdca4d09
+      internalID: 1378740309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 822
+        width: 103
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879dc7cbce609e2488da2e993d39e311
+      internalID: -507796433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 822
+        width: 103
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd59edd5d07724a9298ab58c05d6d4
+      internalID: 867284929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 828
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b926d84197867e54f9058ee3d2f018af
+      internalID: -970888176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 635
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87894733af4bce4d804e5c222872808
+      internalID: -934060850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 640
+        width: 159
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3cda04fa24cb04d8c1414065cebeff
+      internalID: 1541557909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 630
+        width: 130
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9efcfc3dc21847a20ef62e29385ef
+      internalID: -693014247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 630
+        width: 130
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9684eccf7bdf0c4898bd23f30c8c3ec
+      internalID: 1975320343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 288
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7d7a9c747debd4ba45feb8f78ff4cc
+      internalID: -1626448970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 439
+        width: 233
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da165ee964f60964a9ec320b090d8d96
+      internalID: -2052890859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 439
+        width: 233
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6611ea8549c3f54fb4f73989d4f6838
+      internalID: -1970432467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11340_zoro_reverse_0001_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 212
+        width: 114
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecce1acc9f2cde4fb332bed08bfa32b
+      internalID: -96255311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 871b6807871386843b4fab472b841656
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_11340_zoro_reverse_0001_0: -435354419
+      motion_11340_zoro_reverse_0001_1: 128558203
+      motion_11340_zoro_reverse_0001_10: 1975320343
+      motion_11340_zoro_reverse_0001_11: 1630825726
+      motion_11340_zoro_reverse_0001_12: -1807139225
+      motion_11340_zoro_reverse_0001_13: -1694320189
+      motion_11340_zoro_reverse_0001_14: 275321293
+      motion_11340_zoro_reverse_0001_15: 2057303517
+      motion_11340_zoro_reverse_0001_16: -1626448970
+      motion_11340_zoro_reverse_0001_17: -2052890859
+      motion_11340_zoro_reverse_0001_18: -1970432467
+      motion_11340_zoro_reverse_0001_19: 293830982
+      motion_11340_zoro_reverse_0001_2: 348787606
+      motion_11340_zoro_reverse_0001_20: -96255311
+      motion_11340_zoro_reverse_0001_21: 2041722466
+      motion_11340_zoro_reverse_0001_22: 1310992464
+      motion_11340_zoro_reverse_0001_23: -1622660899
+      motion_11340_zoro_reverse_0001_24: -2126358890
+      motion_11340_zoro_reverse_0001_25: 1688061690
+      motion_11340_zoro_reverse_0001_26: -135010622
+      motion_11340_zoro_reverse_0001_27: 655106069
+      motion_11340_zoro_reverse_0001_28: 1539956180
+      motion_11340_zoro_reverse_0001_29: 1380812759
+      motion_11340_zoro_reverse_0001_3: 1378740309
+      motion_11340_zoro_reverse_0001_30: 506194522
+      motion_11340_zoro_reverse_0001_31: 807617961
+      motion_11340_zoro_reverse_0001_32: 1461363591
+      motion_11340_zoro_reverse_0001_33: -1914084322
+      motion_11340_zoro_reverse_0001_34: 1481369619
+      motion_11340_zoro_reverse_0001_35: 1541358818
+      motion_11340_zoro_reverse_0001_36: -647658509
+      motion_11340_zoro_reverse_0001_37: 69293876
+      motion_11340_zoro_reverse_0001_38: 1066236398
+      motion_11340_zoro_reverse_0001_39: -150705130
+      motion_11340_zoro_reverse_0001_4: -507796433
+      motion_11340_zoro_reverse_0001_40: 635357218
+      motion_11340_zoro_reverse_0001_41: -636066917
+      motion_11340_zoro_reverse_0001_42: -175002543
+      motion_11340_zoro_reverse_0001_43: 154852844
+      motion_11340_zoro_reverse_0001_44: 857369291
+      motion_11340_zoro_reverse_0001_45: -1287385884
+      motion_11340_zoro_reverse_0001_46: 278733086
+      motion_11340_zoro_reverse_0001_47: 1022857040
+      motion_11340_zoro_reverse_0001_48: 798839943
+      motion_11340_zoro_reverse_0001_49: -1653757462
+      motion_11340_zoro_reverse_0001_5: 867284929
+      motion_11340_zoro_reverse_0001_50: 1579546317
+      motion_11340_zoro_reverse_0001_51: -1353771539
+      motion_11340_zoro_reverse_0001_52: 1676867138
+      motion_11340_zoro_reverse_0001_53: -763588814
+      motion_11340_zoro_reverse_0001_54: -791549839
+      motion_11340_zoro_reverse_0001_55: 1271979170
+      motion_11340_zoro_reverse_0001_56: 249758535
+      motion_11340_zoro_reverse_0001_57: 1848784011
+      motion_11340_zoro_reverse_0001_58: -539682688
+      motion_11340_zoro_reverse_0001_59: -2004742578
+      motion_11340_zoro_reverse_0001_6: -970888176
+      motion_11340_zoro_reverse_0001_7: -934060850
+      motion_11340_zoro_reverse_0001_8: 1541557909
+      motion_11340_zoro_reverse_0001_9: -693014247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

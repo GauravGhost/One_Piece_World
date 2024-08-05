@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 87333a9ef61814646bb9c898cbe6625f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 791
+        width: 242
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe1b8c4bf29a0f4d96d423efb96448d
+      internalID: -1494723465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 812
+        width: 250
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d77d46d03cdb74889f79ef4f467b05
+      internalID: 2123566758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 812
+        width: 250
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036d466cf5f1a8940b1c14ccc692b69d
+      internalID: -2078899237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 812
+        width: 251
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dbaecc557ed094e906701cded26137
+      internalID: -755767164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 571
+        width: 213
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b390aa4f6a7bcb438f3d92b934e0b85
+      internalID: -1609824637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 598
+        width: 250
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338df1d2a0224554980f008632b311e5
+      internalID: 1893760403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 598
+        width: 249
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9705fee978a39945b97c3b67c2f08c1
+      internalID: -832126187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_8
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 592
+        width: 226
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b703bbda76aee4409414920a8f13b00
+      internalID: -685422424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 385
+        width: 207
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a642ab0bacfb40b134ee9aae3d7da
+      internalID: 1837433196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 384
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1aa31918f3a494c84e4dacb5586233
+      internalID: 1888516626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 380
+        width: 199
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6b781278c01764ab97bda0dd8395bf
+      internalID: -1309616246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 360
+        width: 199
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754e4d9914061e94495754729c9fa051
+      internalID: 719902327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 196
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c738e9caf7f64e9654329a8f7c360
+      internalID: -818887534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 174
+        width: 199
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f20ad13cd1024409964e3ddfbedc81
+      internalID: -2067883025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 172
+        width: 199
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5043fb7d7363819469ffa79fb0dc97db
+      internalID: 1289589187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_27
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 167
+        width: 198
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cd8fbf2c75e0f46bd3b3066787728f
+      internalID: 504924590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12367_robin_jinbe_0001_28
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 166
+        width: 196
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e258bb45f60e40878d2b4d987a0e1
+      internalID: 780197728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 182171a053be4674bb0d63ef60390785
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_12367_robin_jinbe_0001_0: -1494723465
+      motion_12367_robin_jinbe_0001_1: -1163080170
+      motion_12367_robin_jinbe_0001_10: 1888516626
+      motion_12367_robin_jinbe_0001_100: -675386867
+      motion_12367_robin_jinbe_0001_101: 1313839877
+      motion_12367_robin_jinbe_0001_102: -711695778
+      motion_12367_robin_jinbe_0001_103: 2014434197
+      motion_12367_robin_jinbe_0001_104: 1874942631
+      motion_12367_robin_jinbe_0001_105: -679945567
+      motion_12367_robin_jinbe_0001_106: -560660949
+      motion_12367_robin_jinbe_0001_107: -1916402628
+      motion_12367_robin_jinbe_0001_11: -1309616246
+      motion_12367_robin_jinbe_0001_12: -621433635
+      motion_12367_robin_jinbe_0001_13: -1342953759
+      motion_12367_robin_jinbe_0001_14: -1218296219
+      motion_12367_robin_jinbe_0001_15: -1281323591
+      motion_12367_robin_jinbe_0001_16: -454604565
+      motion_12367_robin_jinbe_0001_17: 719902327
+      motion_12367_robin_jinbe_0001_18: 1368309799
+      motion_12367_robin_jinbe_0001_19: 1034375389
+      motion_12367_robin_jinbe_0001_2: 2123566758
+      motion_12367_robin_jinbe_0001_20: -1405865850
+      motion_12367_robin_jinbe_0001_21: -1043853092
+      motion_12367_robin_jinbe_0001_22: -283627011
+      motion_12367_robin_jinbe_0001_23: 282216924
+      motion_12367_robin_jinbe_0001_24: -818887534
+      motion_12367_robin_jinbe_0001_25: -2067883025
+      motion_12367_robin_jinbe_0001_26: 1289589187
+      motion_12367_robin_jinbe_0001_27: 504924590
+      motion_12367_robin_jinbe_0001_28: 780197728
+      motion_12367_robin_jinbe_0001_29: -1922167980
+      motion_12367_robin_jinbe_0001_3: -2078899237
+      motion_12367_robin_jinbe_0001_30: 1248160586
+      motion_12367_robin_jinbe_0001_31: -1306177876
+      motion_12367_robin_jinbe_0001_32: -1081362192
+      motion_12367_robin_jinbe_0001_33: 1486989773
+      motion_12367_robin_jinbe_0001_34: 1168167652
+      motion_12367_robin_jinbe_0001_35: -108433983
+      motion_12367_robin_jinbe_0001_36: 1732638035
+      motion_12367_robin_jinbe_0001_37: 407173803
+      motion_12367_robin_jinbe_0001_38: -149831574
+      motion_12367_robin_jinbe_0001_39: -1236439548
+      motion_12367_robin_jinbe_0001_4: -755767164
+      motion_12367_robin_jinbe_0001_40: -856260643
+      motion_12367_robin_jinbe_0001_41: -16986217
+      motion_12367_robin_jinbe_0001_42: 594274958
+      motion_12367_robin_jinbe_0001_43: -320142346
+      motion_12367_robin_jinbe_0001_44: 2014859944
+      motion_12367_robin_jinbe_0001_45: 239418778
+      motion_12367_robin_jinbe_0001_46: -809709863
+      motion_12367_robin_jinbe_0001_47: 1963364722
+      motion_12367_robin_jinbe_0001_48: 1790040717
+      motion_12367_robin_jinbe_0001_49: -816445553
+      motion_12367_robin_jinbe_0001_5: -1609824637
+      motion_12367_robin_jinbe_0001_50: -1097544464
+      motion_12367_robin_jinbe_0001_51: -2109458165
+      motion_12367_robin_jinbe_0001_52: 1366045099
+      motion_12367_robin_jinbe_0001_53: -944101455
+      motion_12367_robin_jinbe_0001_54: -368263793
+      motion_12367_robin_jinbe_0001_55: 2128573190
+      motion_12367_robin_jinbe_0001_56: -109464491
+      motion_12367_robin_jinbe_0001_57: -645029140
+      motion_12367_robin_jinbe_0001_58: -1358550792
+      motion_12367_robin_jinbe_0001_59: 1043298677
+      motion_12367_robin_jinbe_0001_6: 1893760403
+      motion_12367_robin_jinbe_0001_60: -1242737994
+      motion_12367_robin_jinbe_0001_61: -1617649631
+      motion_12367_robin_jinbe_0001_62: 673171337
+      motion_12367_robin_jinbe_0001_63: 996773525
+      motion_12367_robin_jinbe_0001_64: -1449867500
+      motion_12367_robin_jinbe_0001_65: 1815076132
+      motion_12367_robin_jinbe_0001_66: 2013502117
+      motion_12367_robin_jinbe_0001_67: -1383197136
+      motion_12367_robin_jinbe_0001_68: 910589159
+      motion_12367_robin_jinbe_0001_69: 172439608
+      motion_12367_robin_jinbe_0001_7: -832126187
+      motion_12367_robin_jinbe_0001_70: -1879837041
+      motion_12367_robin_jinbe_0001_71: -1117166810
+      motion_12367_robin_jinbe_0001_72: 836835629
+      motion_12367_robin_jinbe_0001_73: -2142075489
+      motion_12367_robin_jinbe_0001_74: 798906484
+      motion_12367_robin_jinbe_0001_75: -1615892104
+      motion_12367_robin_jinbe_0001_76: 1519250089
+      motion_12367_robin_jinbe_0001_77: 1017744242
+      motion_12367_robin_jinbe_0001_78: 393323626
+      motion_12367_robin_jinbe_0001_79: 1424112202
+      motion_12367_robin_jinbe_0001_8: -685422424
+      motion_12367_robin_jinbe_0001_80: 545834077
+      motion_12367_robin_jinbe_0001_81: -1694015717
+      motion_12367_robin_jinbe_0001_82: 2100160780
+      motion_12367_robin_jinbe_0001_83: -406619665
+      motion_12367_robin_jinbe_0001_84: 1071815878
+      motion_12367_robin_jinbe_0001_85: -424187483
+      motion_12367_robin_jinbe_0001_86: 2031197281
+      motion_12367_robin_jinbe_0001_87: 888277774
+      motion_12367_robin_jinbe_0001_88: 744974838
+      motion_12367_robin_jinbe_0001_89: 1767783766
+      motion_12367_robin_jinbe_0001_9: 1837433196
+      motion_12367_robin_jinbe_0001_90: 870078534
+      motion_12367_robin_jinbe_0001_91: -241312798
+      motion_12367_robin_jinbe_0001_92: -1524056877
+      motion_12367_robin_jinbe_0001_93: -325735259
+      motion_12367_robin_jinbe_0001_94: -1298763758
+      motion_12367_robin_jinbe_0001_95: -1452798750
+      motion_12367_robin_jinbe_0001_96: 691419587
+      motion_12367_robin_jinbe_0001_97: -1626347206
+      motion_12367_robin_jinbe_0001_98: -116444845
+      motion_12367_robin_jinbe_0001_99: 1053027836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 258248712, guid: a215bd465061e3c4abe0b86c7c8c3d14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _assetMappings:
+  - Guid: f0d6042b0d560ca43b2327fb82adb6e7
+    StoreId: 669b1faaee1f731a95ca6906
+    Name: Smart Cam 2D
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/55bb64735531104341039ca8/669b1faaee1f731a95ca6906/190cdf3db08_0.jpg
+  - Guid: 4c3dfb5c621c0474a9e13b228d5b1717
+    StoreId: 66218fe2d3b91f38532f1e40
+    Name: Stationary Death Trigger
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/647622d2106a74bac609d8ea/66218fe2d3b91f38532f1e40/18ef31a7060_0.jpg

@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: c10081fdab3eb8d46914c941d9e76cf6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapgame_departure_01_effect_0004_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e92c86032de034bb33505564783d79
+      internalID: -1835108037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapgame_departure_01_effect_0004_0
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 589
+        width: 583
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d04790beb4fe4daa2134fdcaaf25f
+      internalID: 2054200465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapgame_departure_01_effect_0004_1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 424
+        width: 257
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0925b06e1705eeb439a1faf218b107d9
+      internalID: -958471061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bf926ac6766ffff4081b793e147ea0ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mapgame_departure_01_effect_0004_0: 2054200465
+      mapgame_departure_01_effect_0004_1: -958471061
+      mapgame_departure_01_effect_0004_10: 1657825102
+      mapgame_departure_01_effect_0004_11: -778061890
+      mapgame_departure_01_effect_0004_12: -1008401173
+      mapgame_departure_01_effect_0004_13: 318695333
+      mapgame_departure_01_effect_0004_14: -1751007136
+      mapgame_departure_01_effect_0004_15: -1656813610
+      mapgame_departure_01_effect_0004_16: 18335371
+      mapgame_departure_01_effect_0004_17: -1056472528
+      mapgame_departure_01_effect_0004_18: 1310921543
+      mapgame_departure_01_effect_0004_19: 603117196
+      mapgame_departure_01_effect_0004_2: 666563655
+      mapgame_departure_01_effect_0004_20: -67473553
+      mapgame_departure_01_effect_0004_21: 1940457762
+      mapgame_departure_01_effect_0004_22: -746698022
+      mapgame_departure_01_effect_0004_23: 235048381
+      mapgame_departure_01_effect_0004_24: -151807667
+      mapgame_departure_01_effect_0004_25: -1499221705
+      mapgame_departure_01_effect_0004_26: -1198094002
+      mapgame_departure_01_effect_0004_27: -93509809
+      mapgame_departure_01_effect_0004_28: 1343974395
+      mapgame_departure_01_effect_0004_29: -2117647449
+      mapgame_departure_01_effect_0004_3: -1706661069
+      mapgame_departure_01_effect_0004_30: 728176843
+      mapgame_departure_01_effect_0004_31: 156743037
+      mapgame_departure_01_effect_0004_32: -1835108037
+      mapgame_departure_01_effect_0004_33: 951372442
+      mapgame_departure_01_effect_0004_4: 973939019
+      mapgame_departure_01_effect_0004_5: -1338553829
+      mapgame_departure_01_effect_0004_6: 1184321762
+      mapgame_departure_01_effect_0004_7: 762360719
+      mapgame_departure_01_effect_0004_8: 168954972
+      mapgame_departure_01_effect_0004_9: 643060025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

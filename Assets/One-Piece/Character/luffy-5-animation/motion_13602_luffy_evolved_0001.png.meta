@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: cfa3e0948b91fe947a796fe782447a28
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13602_luffy_evolved_0001_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 600
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f0cf256e488214da146c65d0de2427
+      internalID: -1676640524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13602_luffy_evolved_0001_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 408
+        width: 193
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c3e491a2d8d5548beeba503d9c367e
+      internalID: 1188880461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13602_luffy_evolved_0001_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 284
+        width: 179
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d911fea1e20134ba9312be640e8772
+      internalID: 749073179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13602_luffy_evolved_0001_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 170
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aaad414c662e44ca4c6ea4dfc07782
+      internalID: 70053596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13602_luffy_evolved_0001_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 165
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cfb083663c84342a524e3fa15ca0b6
+      internalID: -1773294666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13602_luffy_evolved_0001_77
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 119
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cb82e08fb2276409c53028cc823fad
+      internalID: -1905303747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13602_luffy_evolved_0001_0
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 617
+        width: 191
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea781cb4c6b61c4f92c95e42a6325f5
+      internalID: -1618829950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_13602_luffy_evolved_0001_0: -1618829950
+      motion_13602_luffy_evolved_0001_1: 1377649796
+      motion_13602_luffy_evolved_0001_10: -1922357116
+      motion_13602_luffy_evolved_0001_11: 387982822
+      motion_13602_luffy_evolved_0001_12: -1093456301
+      motion_13602_luffy_evolved_0001_13: -774655524
+      motion_13602_luffy_evolved_0001_14: -1018238600
+      motion_13602_luffy_evolved_0001_15: -1760177210
+      motion_13602_luffy_evolved_0001_16: 822543107
+      motion_13602_luffy_evolved_0001_17: 1403788963
+      motion_13602_luffy_evolved_0001_18: -604421392
+      motion_13602_luffy_evolved_0001_19: -8008023
+      motion_13602_luffy_evolved_0001_2: 560135658
+      motion_13602_luffy_evolved_0001_20: -1013842402
+      motion_13602_luffy_evolved_0001_21: 1646623725
+      motion_13602_luffy_evolved_0001_22: -62764395
+      motion_13602_luffy_evolved_0001_23: 450263587
+      motion_13602_luffy_evolved_0001_24: -844148802
+      motion_13602_luffy_evolved_0001_25: -736351386
+      motion_13602_luffy_evolved_0001_26: 1456406235
+      motion_13602_luffy_evolved_0001_27: -535464882
+      motion_13602_luffy_evolved_0001_28: -1307742154
+      motion_13602_luffy_evolved_0001_29: -1377330479
+      motion_13602_luffy_evolved_0001_3: 260810518
+      motion_13602_luffy_evolved_0001_30: -161312632
+      motion_13602_luffy_evolved_0001_31: -873663368
+      motion_13602_luffy_evolved_0001_32: -1676640524
+      motion_13602_luffy_evolved_0001_33: -288878799
+      motion_13602_luffy_evolved_0001_34: 2095379600
+      motion_13602_luffy_evolved_0001_35: -1671310963
+      motion_13602_luffy_evolved_0001_36: 2049835325
+      motion_13602_luffy_evolved_0001_37: -1173331268
+      motion_13602_luffy_evolved_0001_38: -475827255
+      motion_13602_luffy_evolved_0001_39: 302261215
+      motion_13602_luffy_evolved_0001_4: -1507456282
+      motion_13602_luffy_evolved_0001_40: 1188880461
+      motion_13602_luffy_evolved_0001_41: -669462998
+      motion_13602_luffy_evolved_0001_42: -2095707837
+      motion_13602_luffy_evolved_0001_43: 1521603462
+      motion_13602_luffy_evolved_0001_44: 887183237
+      motion_13602_luffy_evolved_0001_45: -1697619846
+      motion_13602_luffy_evolved_0001_46: 690980790
+      motion_13602_luffy_evolved_0001_47: 1913848453
+      motion_13602_luffy_evolved_0001_48: 29049544
+      motion_13602_luffy_evolved_0001_49: 203645495
+      motion_13602_luffy_evolved_0001_5: 433678981
+      motion_13602_luffy_evolved_0001_50: 749073179
+      motion_13602_luffy_evolved_0001_51: 1604470461
+      motion_13602_luffy_evolved_0001_52: -826593535
+      motion_13602_luffy_evolved_0001_53: 1144433203
+      motion_13602_luffy_evolved_0001_54: 556510531
+      motion_13602_luffy_evolved_0001_55: 70053596
+      motion_13602_luffy_evolved_0001_56: -515863218
+      motion_13602_luffy_evolved_0001_57: -1865556031
+      motion_13602_luffy_evolved_0001_58: -1207915155
+      motion_13602_luffy_evolved_0001_59: -1085564646
+      motion_13602_luffy_evolved_0001_6: -1630898711
+      motion_13602_luffy_evolved_0001_60: -529913307
+      motion_13602_luffy_evolved_0001_61: -2021019888
+      motion_13602_luffy_evolved_0001_62: 292789460
+      motion_13602_luffy_evolved_0001_63: -1884413470
+      motion_13602_luffy_evolved_0001_64: 386760303
+      motion_13602_luffy_evolved_0001_65: -1774141797
+      motion_13602_luffy_evolved_0001_66: 59876469
+      motion_13602_luffy_evolved_0001_67: 1716811376
+      motion_13602_luffy_evolved_0001_68: -1710231169
+      motion_13602_luffy_evolved_0001_69: 82058624
+      motion_13602_luffy_evolved_0001_7: -1735489226
+      motion_13602_luffy_evolved_0001_70: -1773294666
+      motion_13602_luffy_evolved_0001_71: 1935678456
+      motion_13602_luffy_evolved_0001_72: -1223323641
+      motion_13602_luffy_evolved_0001_73: -1974446114
+      motion_13602_luffy_evolved_0001_74: 130270017
+      motion_13602_luffy_evolved_0001_75: 62250041
+      motion_13602_luffy_evolved_0001_76: -1937731725
+      motion_13602_luffy_evolved_0001_77: -1905303747
+      motion_13602_luffy_evolved_0001_78: -1240368749
+      motion_13602_luffy_evolved_0001_79: 2039746675
+      motion_13602_luffy_evolved_0001_8: -1668015880
+      motion_13602_luffy_evolved_0001_9: 549632311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
